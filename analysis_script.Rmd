@@ -1,0 +1,204 @@
+---
+title: "Ch3_through_5_analyses"
+output: word_document
+date: "2024-06-17"
+---
+
+# Set Up 
+## load packages
+```{r}
+library(dplyr)
+library(tidyverse)
+library(lme4)
+library(lmerTest)
+library(optimx) #to select an optimizer for glmer models
+library(performance) #to check for collinearity between predictors
+```
+## load data 
+These files contain both human and surprisal data. The Det/N data file contains data from both experiments (Chapters 3&4); experiment == 1 is Chapter 3 data, experiment == 2 is Chapter 4 data. 
+```{r}
+#det/n data
+detn_data = read.csv("~/Desktop/data/processed/Ch5_detn_data_filtered.csv")
+#adj/n cs between data (Chapter 3)
+adjn_between = read.csv("~/Desktop/data/processed/Ch5_adjn_cs_between_data_filtered.csv")
+#adj/n cs before data (Chapter 4)
+adjn_before = read.csv("~/Desktop/data/processed/Ch5_adjn_cs_before_data_filtered.csv")
+#frequency data of the adjectives and nouns in the adj/n stimuli
+freq_data <- read.csv("~/Desktop/data/processed/adj_n_freq.csv")
+```
+## format data
+```{r}
+#det/n data
+detn_data$experiment <-factor(detn_data$experiment)
+detn_data$subject <-factor(detn_data$subject)
+detn_data$starting_lang <-factor(detn_data$starting_lang)
+detn_data$lang_switch <-factor(detn_data$lang_switch)
+detn_data$cs <-factor(detn_data$cs, levels=c("CS", "noCS"))
+detn_data$sensical <-factor(detn_data$sensical, levels= c("sense", "nonsense"))
+detn_data$condition <- factor(detn_data$condition)
+detn_data$response <- factor(detn_data$response)
+detn_data$label <- factor(detn_data$label)
+
+#adj/n cs between data
+adjn_between$subject <-factor(adjn_between$subject)
+adjn_between$starting_lang <-factor(adjn_between$starting_lang)
+adjn_between$lang_switch <-factor(adjn_between$lang_switch)
+adjn_between$cs <-factor(adjn_between$cs, levels=c("CS", "noCS"))
+adjn_between$word_order <-factor(adjn_between$word_order, levels= c("AdjN", "NAdj"))
+adjn_between$condition <- factor(adjn_between$condition)
+adjn_between$response <- factor(adjn_between$response)
+adjn_between$label <- factor(adjn_between$label)
+adjn_between$mlwo <- factor(adjn_between$mlwo)
+adjn_between$mlwo_condition <- factor(adjn_between$mlwo_condition)
+adjn_between$cwh <- factor(adjn_between$cwh)
+adjn_between$cwh_condition <- factor(adjn_between$cwh_condition)
+
+#adj/n cs before data
+adjn_before$subject <-factor(adjn_before$subject)
+adjn_before$starting_lang <-factor(adjn_before$starting_lang)
+adjn_before$lang_switch <-factor(adjn_before$lang_switch)
+adjn_before$cs <-factor(adjn_before$cs, levels=c("CS", "noCS"))
+adjn_before$word_order <-factor(adjn_before$word_order, levels= c("AdjN", "NAdj"))
+adjn_before$condition <- factor(adjn_before$condition)
+adjn_before$response <- factor(adjn_before$response)
+adjn_before$label <- factor(adjn_before$label)
+adjn_before$mlwo <- factor(adjn_before$mlwo)
+adjn_before$mlwo_condition <- factor(adjn_before$mlwo_condition)
+adjn_before$cwh <- factor(adjn_before$cwh)
+adjn_before$cwh_condition <- factor(adjn_before$cwh_condition)
+```
+# Analyses
+All analyses for each data set are run on multiple word positions, but the code for each analysis is only written once. Change the word number in "subset= word_no %in% c**#**" to the desired word position to run the analysis on the desired word position.
+Word positions corresponding to the critical region and one word spillover region for all data sets: 
+* Det/N: 5, 6
+* Adj/N: 5, 6, 7
+For models that do not converge, remove the three way interaction and instead include all 2-way interactions. 
+* the 3-way interaction of *cs x sensical x starting_lang* (x=interaction) --> *cs x sensical + cs x starting_lang + sensical x starting_lang*
+* the 3-way interaction of *cs x word_order x starting_lang* (x=interaction) --> *cs x word_order + cs x starting_lang + word_order x starting_lang*
+
+## Analyses for Ch 3
+### Det/N stimuli
+```{r}
+logistic <-glmer(response~cs*sensical*starting_lang+centered_span_prof+(1|subject)+(1|label), data=detn_data, family=binomial, glmerControl(optimizer ='optimx', optCtrl=list(method='nlminb')), subset= word_number %in% c(5) & experiment=="1")
+summary(logistic)
+```
+### Adj/N CS Between Stimuli
+```{r}
+logistic <-glmer(response~cs*word_order*starting_lang+centered_span_prof+(1|subject)+(1|label), data=adjn_cs_between, family=binomial, glmerControl(optimizer ='optimx', optCtrl=list(method='nlminb')), subset= word_number %in% c(5))
+summary(logisitic)
+```
+### CWH and MLF Analyses
+CWH and MLF make the same predictions for all conditions, so the analysis is only run on one of the variables. 
+```{r}
+mlwo_logisitic <-glmer(response~mlwo+span_prof+(1|subject)+(1|label), data=adjn_cs_between, family=binomial, control=glmerControl(optimizer="bobyqa"), subset= word_number %in% c(5))
+summary(mlwo_logisitic)
+```
+
+## Analyses for Ch 4
+### Det/N Stimuli
+```{r}
+logistic <-glmer(response~cs*sensical*starting_lang+centered_span_prof+(1|subject)+(1|label), data=detn_data, family=binomial, glmerControl(optimizer ='optimx', optCtrl=list(method='nlminb')), subset= word_number %in% c(5) & experiment=="1")
+summary(logistic)
+```
+### Adj/N CS Before Stimuli
+```{r}
+logistic <-glmer(response~cs*word_order*starting_lang+centered_span_prof+(1|subject)+(1|label), data=adjn_cs_before, family=binomial, glmerControl(optimizer ='optimx', optCtrl=list(method='nlminb')), subset= word_number %in% c(5))
+summary(logisitic)
+```
+### CWH and MLF Analyses
+#### MLF
+```{r}
+mlwo_logisitic <-glmer(response~mlwo+span_prof+(1|subject)+(1|label), data=adjn_cs_before, family=binomial, control=glmerControl(optimizer="bobyqa"), subset= word_number %in% c(5))
+summary(mlwo_logisitic)
+```
+#### CWH
+```{r}
+cwh_logisitic <-glmer(response~cwh+span_prof+(1|subject)+(1|label), data=adjn_cs_before, family=binomial, control=glmerControl(optimizer="bobyqa"), subset= word_number %in% c(5))
+summary(cwh_logisitic)
+```
+
+## If Necessary: Check which optimizers will allow models to converge
+If needed, check which optimizer(s) will allow the model to converge. Create a logit model with all fixed and random effects (first chunk of code below), then run allFit command on the model (second chunk below).
+```{r}
+logistic_test <-glmer(response~cs*sensical*starting_lang+span_prof+(1|subject)+(1|label), data=detn_data, family=binomial, subset= word_number %in% c(7))
+summary(logistic_test)
+```
+```{r}
+diff_optims <- allFit(logistic_test, maxfun = 1e5)
+```
+
+## Analyses for Ch 5
+### What is surprisal sensitive to?
+#### Det/N stimuli
+```{r}
+regression <-lmer(word_surprisal~cs*sensical*starting_lang + (1|word), data=detn_data, subset= word_no %in% c(5))
+summary(regression)
+confint(regression)
+```
+#### Adj/N CS Between Stimuli
+```{r}
+regression <-lmer(word_surprisal~cs*word_order*starting_lang + (1|word), data=adjn_between, subset= word_no %in% c(5))
+summary(regression)
+confint(regression)
+```
+#### Adj/N CS Before Stimuli
+```{r}
+regression <-lmer(word_surprisal~cs*word_order*starting_lang + (1|word), data=adjn_before, subset= word_no %in% c(5))
+summary(regression)
+confint(regression)
+
+#t-test to check if at word position 5 in non-codeswitched conditions, adjectives are more surprising in Spanish than in English
+t.test(adjn_before$word_surprisal ~ adjn_before$starting_lang, subset = (adjn_before$word_no==5 & adjn_before$cs=="noCS" & adjn_before$word_order=="AdjN"), p.adjust="bonferroni")
+```
+
+### To what extent can surprisal predict human responses?
+#### Det/N stimuli
+```{r}
+logistic <-glmer(response~word_surprisal+cs*sensical*starting_lang+(1|subject)+(1|label), data=detn_data, family=binomial, glmerControl(optimizer ='optimx', optCtrl=list(method='nlminb')), subset= word_number %in% c(5))
+summary(logistic)
+```
+#### Adj/N CS Between Stimuli
+```{r}
+logistic <-glmer(response~word_surprisal+cs*word_order*starting_lang+(1|subject)+(1|label), data=adjn_before, family=binomial, glmerControl(optimizer ='optimx', optCtrl=list(method='nlminb')), subset= word_number %in% c(5))
+summary(logistic)
+```
+#### Adj/N CS Before Stimuli
+```{r}
+logistic <-glmer(response~word_surprisal+cs*word_order*starting_lang+(1|subject)+(1|label), data=adjn_before, family=binomial, glmerControl(optimizer ='optimx', optCtrl=list(method='nlminb')), subset= word_number %in% c(5))
+summary(logistic)
+```
+
+###	Comparing the MLF, CWH, and SCH: 
+#### To what extent can the MLF or CWH predict human responses?
+##### MLF
+```{r}
+logistic <-glmer(response~word_surprisal+mlwo+(1|subject)+(1|label), data=adjn_before, family=binomial, subset= word_number %in% c(5))
+summary(logistic)
+```
+##### CWH
+```{r}
+logistic <-glmer(response~word_surprisal+cwh+(1|subject)+(1|label), data=adjn_before, family=binomial, subset= word_number %in% c(5))
+summary(logistic)
+```
+
+####	To what extent can the SCH **and** MLF or CWH predict human responses?
+##### SCH + MLF
+```{r}
+logistic <-glmer(response~word_surprisal+mlwo+(1|subject)+(1|label), data=adjn_before, family=binomial, subset= word_number %in% c(5))
+summary(logistic)
+```
+
+##### SCH + CWH
+```{r}
+logistic <-glmer(response~word_surprisal+cwh+(1|subject)+(1|label), data=adjn_before, family=binomial, subset= word_number %in% c(5))
+summary(logistic)
+#check the collinearity of the SCH and CWH in the logisitic model
+check_collinearity(logistic)
+```
+
+### Post-hoc Frequency Analysis
+Compare the frequency of nouns and adjectives used in the adj/n stimuli.
+```{r}
+freq_test <-t.test(freq_per_mill~gram_cat, data=freq_data)
+freq_test
+```
