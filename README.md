@@ -1,4 +1,5 @@
-# Evaluating Prediction-Based Theories of Bilingual Comprehension of Spanish/English Codeswitches (Ch.s 3-5 of Disseration)
+# Evaluating Prediction-Based Theories of Bilingual Comprehension of Spanish/English Codeswitches 
+Ch.s 3-5 of disseration
 Associatied OSF: https://osf.io/3z4qw/
 
 This repository contains the materials, data, and analysis script associated with 2 human-participants experiments that evaluated bilinguals' comprehension of Spanish-English codeswitches (Chapters 3 & 4), and the data of LLM processing (surprisal) of those same codeswitches. Mathematical models of 3 different theories of bilingual codeswitch comprehension were evaluated, and model performance was used to assess which theory best explains the human behavioral data.
