@@ -1,0 +1,1163 @@
+"starting_lang","lang_switch","cs","sensical","condition","sentence_id","sentence","total_surprisal","word_no","word","tokenized_word","word_surprisal"
+"English","English --> Spanish","CS","nonsense","CS_nonsense",2,"The child spills a carrera en la mesa.",62.69555808,2," child"," child",8.086147
+"English","English --> Spanish","CS","nonsense","CS_nonsense",2,"The child spills a carrera en la mesa.",62.69555808,3," spills"," spills",12.141431
+"English","English --> Spanish","CS","nonsense","CS_nonsense",2,"The child spills a carrera en la mesa.",62.69555808,4," a"," a",3.1151006
+"English","English --> Spanish","CS","nonsense","CS_nonsense",2,"The child spills a carrera en la mesa.",62.69555808,5," carrera"," car_rera",23.7064425
+"English","English --> Spanish","CS","nonsense","CS_nonsense",2,"The child spills a carrera en la mesa.",62.69555808,6," en"," en",8.115117
+"English","English --> Spanish","CS","nonsense","CS_nonsense",2,"The child spills a carrera en la mesa.",62.69555808,7," la"," la",2.5858874
+"English","English --> Spanish","CS","nonsense","CS_nonsense",2,"The child spills a carrera en la mesa.",62.69555808,8," mesa"," mes_a_.",4.94543258
+"English","English --> Spanish","CS","nonsense","CS_nonsense",6,"The janitor sips the ajedrez en la tienda.",69.73534282,2," janitor"," jan_itor",12.05536865
+"English","English --> Spanish","CS","nonsense","CS_nonsense",6,"The janitor sips the ajedrez en la tienda.",69.73534282,3," sips"," s_ips",15.913121
+"English","English --> Spanish","CS","nonsense","CS_nonsense",6,"The janitor sips the ajedrez en la tienda.",69.73534282,4," the"," the",4.351532
+"English","English --> Spanish","CS","nonsense","CS_nonsense",6,"The janitor sips the ajedrez en la tienda.",69.73534282,5," ajedrez"," a_j_ed_rez",20.90106099
+"English","English --> Spanish","CS","nonsense","CS_nonsense",6,"The janitor sips the ajedrez en la tienda.",69.73534282,6," en"," en",7.8303804
+"English","English --> Spanish","CS","nonsense","CS_nonsense",6,"The janitor sips the ajedrez en la tienda.",69.73534282,7," la"," la",1.2969935
+"English","English --> Spanish","CS","nonsense","CS_nonsense",6,"The janitor sips the ajedrez en la tienda.",69.73534282,8," tienda"," ti_enda_.",7.386886279
+"English","English --> Spanish","CS","nonsense","CS_nonsense",10,"The fox consumes a fondo en el charco.",70.00256131,2," fox"," fox",10.832819
+"English","English --> Spanish","CS","nonsense","CS_nonsense",10,"The fox consumes a fondo en el charco.",70.00256131,3," consumes"," consumes",12.685488
+"English","English --> Spanish","CS","nonsense","CS_nonsense",10,"The fox consumes a fondo en el charco.",70.00256131,4," a"," a",2.5779016
+"English","English --> Spanish","CS","nonsense","CS_nonsense",10,"The fox consumes a fondo en el charco.",70.00256131,5," fondo"," fond_o",21.0325003
+"English","English --> Spanish","CS","nonsense","CS_nonsense",10,"The fox consumes a fondo en el charco.",70.00256131,6," en"," en",10.392763
+"English","English --> Spanish","CS","nonsense","CS_nonsense",10,"The fox consumes a fondo en el charco.",70.00256131,7," el"," el",1.1271254
+"English","English --> Spanish","CS","nonsense","CS_nonsense",10,"The fox consumes a fondo en el charco.",70.00256131,8," charco"," char_co_.",11.35396401
+"English","English --> Spanish","CS","nonsense","CS_nonsense",14,"A playwright writes the espejo en el sótano.",65.49831639,2," playwright"," play_wright",12.4402802
+"English","English --> Spanish","CS","nonsense","CS_nonsense",14,"A playwright writes the espejo en el sótano.",65.49831639,3," writes"," writes",5.116665
+"English","English --> Spanish","CS","nonsense","CS_nonsense",14,"A playwright writes the espejo en el sótano.",65.49831639,4," the"," the",1.9327469
+"English","English --> Spanish","CS","nonsense","CS_nonsense",14,"A playwright writes the espejo en el sótano.",65.49831639,5," espejo"," es_pe_jo",26.146913
+"English","English --> Spanish","CS","nonsense","CS_nonsense",14,"A playwright writes the espejo en el sótano.",65.49831639,6," en"," en",4.988935
+"English","English --> Spanish","CS","nonsense","CS_nonsense",14,"A playwright writes the espejo en el sótano.",65.49831639,7," el"," el",0.6573789
+"English","English --> Spanish","CS","nonsense","CS_nonsense",14,"A playwright writes the espejo en el sótano.",65.49831639,8," sótano"," s_ó_t_ano_.",14.21539739
+"English","English --> Spanish","CS","nonsense","CS_nonsense",18,"The aunt devours the cena en la cocina.",58.31255106,2," aunt"," aunt",11.921952
+"English","English --> Spanish","CS","nonsense","CS_nonsense",18,"The aunt devours the cena en la cocina.",58.31255106,3," devours"," dev_ours",14.3086944
+"English","English --> Spanish","CS","nonsense","CS_nonsense",18,"The aunt devours the cena en la cocina.",58.31255106,4," the"," the",0.8679261
+"English","English --> Spanish","CS","nonsense","CS_nonsense",18,"The aunt devours the cena en la cocina.",58.31255106,5," cena"," c_ena",17.980112
+"English","English --> Spanish","CS","nonsense","CS_nonsense",18,"The aunt devours the cena en la cocina.",58.31255106,6," en"," en",9.91827
+"English","English --> Spanish","CS","nonsense","CS_nonsense",18,"The aunt devours the cena en la cocina.",58.31255106,7," la"," la",1.6649003
+"English","English --> Spanish","CS","nonsense","CS_nonsense",18,"The aunt devours the cena en la cocina.",58.31255106,8," cocina"," coc_ina_.",1.650696256
+"English","English --> Spanish","CS","nonsense","CS_nonsense",40,"The nephew chews the ascensor en su casa.",66.2664547,2," nephew"," nephew",11.8014145
+"English","English --> Spanish","CS","nonsense","CS_nonsense",40,"The nephew chews the ascensor en su casa.",66.2664547,3," chews"," che_ws",12.9141385
+"English","English --> Spanish","CS","nonsense","CS_nonsense",40,"The nephew chews the ascensor en su casa.",66.2664547,4," the"," the",2.3647125
+"English","English --> Spanish","CS","nonsense","CS_nonsense",40,"The nephew chews the ascensor en su casa.",66.2664547,5," ascensor"," asc_ensor",20.2946435
+"English","English --> Spanish","CS","nonsense","CS_nonsense",40,"The nephew chews the ascensor en su casa.",66.2664547,6," en"," en",9.435343
+"English","English --> Spanish","CS","nonsense","CS_nonsense",40,"The nephew chews the ascensor en su casa.",66.2664547,7," su"," su",3.673033
+"English","English --> Spanish","CS","nonsense","CS_nonsense",40,"The nephew chews the ascensor en su casa.",66.2664547,8," casa"," cas_a_.",5.7831697
+"English","English --> Spanish","CS","nonsense","CS_nonsense",44,"A guide fries the nube en la olla.",75.16383283,2," guide"," guide",8.8249855
+"English","English --> Spanish","CS","nonsense","CS_nonsense",44,"A guide fries the nube en la olla.",75.16383283,3," fries"," fries",18.856
+"English","English --> Spanish","CS","nonsense","CS_nonsense",44,"A guide fries the nube en la olla.",75.16383283,4," the"," the",3.802234
+"English","English --> Spanish","CS","nonsense","CS_nonsense",44,"A guide fries the nube en la olla.",75.16383283,5," nube"," n_ube",20.1977515
+"English","English --> Spanish","CS","nonsense","CS_nonsense",44,"A guide fries the nube en la olla.",75.16383283,6," en"," en",11.002837
+"English","English --> Spanish","CS","nonsense","CS_nonsense",44,"A guide fries the nube en la olla.",75.16383283,7," la"," la",2.7506123
+"English","English --> Spanish","CS","nonsense","CS_nonsense",44,"A guide fries the nube en la olla.",75.16383283,8," olla"," o_lla_.",9.72941253
+"English","English --> Spanish","CS","nonsense","CS_nonsense",48,"A businessman flies the barco sobre el estado.",66.9856779,2," businessman"," businessman",10.740047
+"English","English --> Spanish","CS","nonsense","CS_nonsense",48,"A businessman flies the barco sobre el estado.",66.9856779,3," flies"," flies",8.620321
+"English","English --> Spanish","CS","nonsense","CS_nonsense",48,"A businessman flies the barco sobre el estado.",66.9856779,4," the"," the",5.7067223
+"English","English --> Spanish","CS","nonsense","CS_nonsense",48,"A businessman flies the barco sobre el estado.",66.9856779,5," barco"," bar_co",19.397144
+"English","English --> Spanish","CS","nonsense","CS_nonsense",48,"A businessman flies the barco sobre el estado.",66.9856779,6," sobre"," so_bre",7.30340825
+"English","English --> Spanish","CS","nonsense","CS_nonsense",48,"A businessman flies the barco sobre el estado.",66.9856779,7," el"," el",0.22082245
+"English","English --> Spanish","CS","nonsense","CS_nonsense",48,"A businessman flies the barco sobre el estado.",66.9856779,8," estado"," est_ado_.",14.9972129
+"English","English --> Spanish","CS","nonsense","CS_nonsense",52,"The nurse eats the ensayo en el vestíbulo.",71.00605874,2," nurse"," nurse",9.218169
+"English","English --> Spanish","CS","nonsense","CS_nonsense",52,"The nurse eats the ensayo en el vestíbulo.",71.00605874,3," eats"," eats",12.073461
+"English","English --> Spanish","CS","nonsense","CS_nonsense",52,"The nurse eats the ensayo en el vestíbulo.",71.00605874,4," the"," the",2.3552566
+"English","English --> Spanish","CS","nonsense","CS_nonsense",52,"The nurse eats the ensayo en el vestíbulo.",71.00605874,5," ensayo"," ens_ay_o",24.5537038
+"English","English --> Spanish","CS","nonsense","CS_nonsense",52,"The nurse eats the ensayo en el vestíbulo.",71.00605874,6," en"," en",9.779004
+"English","English --> Spanish","CS","nonsense","CS_nonsense",52,"The nurse eats the ensayo en el vestíbulo.",71.00605874,7," el"," el",2.8744154
+"English","English --> Spanish","CS","nonsense","CS_nonsense",52,"The nurse eats the ensayo en el vestíbulo.",71.00605874,8," vestíbulo"," vest_í_bul_o_.",10.15204895
+"English","English --> Spanish","CS","nonsense","CS_nonsense",56,"The uncle cooks a puente con los frijoles.",68.37329438,2," uncle"," uncle",11.630616
+"English","English --> Spanish","CS","nonsense","CS_nonsense",56,"The uncle cooks a puente con los frijoles.",68.37329438,3," cooks"," cooks",10.867428
+"English","English --> Spanish","CS","nonsense","CS_nonsense",56,"The uncle cooks a puente con los frijoles.",68.37329438,4," a"," a",4.2983174
+"English","English --> Spanish","CS","nonsense","CS_nonsense",56,"The uncle cooks a puente con los frijoles.",68.37329438,5," puente"," pu_ente",22.125293
+"English","English --> Spanish","CS","nonsense","CS_nonsense",56,"The uncle cooks a puente con los frijoles.",68.37329438,6," con"," con",7.895276
+"English","English --> Spanish","CS","nonsense","CS_nonsense",56,"The uncle cooks a puente con los frijoles.",68.37329438,7," los"," los",5.353475
+"English","English --> Spanish","CS","nonsense","CS_nonsense",56,"The uncle cooks a puente con los frijoles.",68.37329438,8," frijoles"," fri_j_oles_.",6.202888983
+"English","English --> Spanish","CS","nonsense","CS_nonsense",82,"Ms. Gómez peels a cuchara en la encimera.",66.94239764,1,"",".",1.533457
+"English","English --> Spanish","CS","nonsense","CS_nonsense",82,"Ms. Gómez peels a cuchara en la encimera.",66.94239764,2," Gómez"," G_ó_me_z",11.10061369
+"English","English --> Spanish","CS","nonsense","CS_nonsense",82,"Ms. Gómez peels a cuchara en la encimera.",66.94239764,3," peels"," pe_els",16.6470615
+"English","English --> Spanish","CS","nonsense","CS_nonsense",82,"Ms. Gómez peels a cuchara en la encimera.",66.94239764,4," a"," a",3.037359
+"English","English --> Spanish","CS","nonsense","CS_nonsense",82,"Ms. Gómez peels a cuchara en la encimera.",66.94239764,5," cuchara"," c_uch_ara",18.2478728
+"English","English --> Spanish","CS","nonsense","CS_nonsense",82,"Ms. Gómez peels a cuchara en la encimera.",66.94239764,6," en"," en",8.19881
+"English","English --> Spanish","CS","nonsense","CS_nonsense",82,"Ms. Gómez peels a cuchara en la encimera.",66.94239764,7," la"," la",0.8552721
+"English","English --> Spanish","CS","nonsense","CS_nonsense",82,"Ms. Gómez peels a cuchara en la encimera.",66.94239764,8," encimera"," enc_im_era_.",7.321951585
+"English","English --> Spanish","CS","nonsense","CS_nonsense",86,"The firefighter inhales the idioma en la fábrica.",75.17294359,2," firefighter"," firefighter",12.080774
+"English","English --> Spanish","CS","nonsense","CS_nonsense",86,"The firefighter inhales the idioma en la fábrica.",75.17294359,3," inhales"," inh_ales",9.31156593
+"English","English --> Spanish","CS","nonsense","CS_nonsense",86,"The firefighter inhales the idioma en la fábrica.",75.17294359,4," the"," the",1.7024989
+"English","English --> Spanish","CS","nonsense","CS_nonsense",86,"The firefighter inhales the idioma en la fábrica.",75.17294359,5," idioma"," idi_oma",29.9963015
+"English","English --> Spanish","CS","nonsense","CS_nonsense",86,"The firefighter inhales the idioma en la fábrica.",75.17294359,6," en"," en",8.444081
+"English","English --> Spanish","CS","nonsense","CS_nonsense",86,"The firefighter inhales the idioma en la fábrica.",75.17294359,7," la"," la",3.5007358
+"English","English --> Spanish","CS","nonsense","CS_nonsense",86,"The firefighter inhales the idioma en la fábrica.",75.17294359,8," fábrica"," f_á_b_rica_.",10.13698646
+"English","English --> Spanish","CS","nonsense","CS_nonsense",90,"Ms. García drinks the banco en la reunión.",66.51199035,1,"",".",1.5332494
+"English","English --> Spanish","CS","nonsense","CS_nonsense",90,"Ms. García drinks the banco en la reunión.",66.51199035,2," García"," Garc_ía",10.36222723
+"English","English --> Spanish","CS","nonsense","CS_nonsense",90,"Ms. García drinks the banco en la reunión.",66.51199035,3," drinks"," drinks",12.693057
+"English","English --> Spanish","CS","nonsense","CS_nonsense",90,"Ms. García drinks the banco en la reunión.",66.51199035,4," the"," the",4.66067
+"English","English --> Spanish","CS","nonsense","CS_nonsense",90,"Ms. García drinks the banco en la reunión.",66.51199035,5," banco"," ban_co",18.9156665
+"English","English --> Spanish","CS","nonsense","CS_nonsense",90,"Ms. García drinks the banco en la reunión.",66.51199035,6," en"," en",9.534473
+"English","English --> Spanish","CS","nonsense","CS_nonsense",90,"Ms. García drinks the banco en la reunión.",66.51199035,7," la"," la",1.9565498
+"English","English --> Spanish","CS","nonsense","CS_nonsense",90,"Ms. García drinks the banco en la reunión.",66.51199035,8," reunión"," reun_i_ón_.",6.856097417
+"English","English --> Spanish","CS","nonsense","CS_nonsense",94,"Mr. Thompson bakes the dolor para la fiesta.",59.79921416,1,"",".",0.40568966
+"English","English --> Spanish","CS","nonsense","CS_nonsense",94,"Mr. Thompson bakes the dolor para la fiesta.",59.79921416,2," Thompson"," Thompson",7.332242
+"English","English --> Spanish","CS","nonsense","CS_nonsense",94,"Mr. Thompson bakes the dolor para la fiesta.",59.79921416,3," bakes"," b_akes",12.2674491
+"English","English --> Spanish","CS","nonsense","CS_nonsense",94,"Mr. Thompson bakes the dolor para la fiesta.",59.79921416,4," the"," the",2.1411977
+"English","English --> Spanish","CS","nonsense","CS_nonsense",94,"Mr. Thompson bakes the dolor para la fiesta.",59.79921416,5," dolor"," d_olor",21.13296
+"English","English --> Spanish","CS","nonsense","CS_nonsense",94,"Mr. Thompson bakes the dolor para la fiesta.",59.79921416,6," para"," para",10.543843
+"English","English --> Spanish","CS","nonsense","CS_nonsense",94,"Mr. Thompson bakes the dolor para la fiesta.",59.79921416,7," la"," la",3.9011505
+"English","English --> Spanish","CS","nonsense","CS_nonsense",94,"Mr. Thompson bakes the dolor para la fiesta.",59.79921416,8," fiesta"," f_iesta_.",2.0746822
+"English","English --> Spanish","CS","nonsense","CS_nonsense",98,"Mr. Wilson sings a tortuga en la escuela.",60.65860615,1,"",".",0.4055822
+"English","English --> Spanish","CS","nonsense","CS_nonsense",98,"Mr. Wilson sings a tortuga en la escuela.",60.65860615,2," Wilson"," Wilson",6.4098935
+"English","English --> Spanish","CS","nonsense","CS_nonsense",98,"Mr. Wilson sings a tortuga en la escuela.",60.65860615,3," sings"," sings",11.192009
+"English","English --> Spanish","CS","nonsense","CS_nonsense",98,"Mr. Wilson sings a tortuga en la escuela.",60.65860615,4," a"," a",3.3912516
+"English","English --> Spanish","CS","nonsense","CS_nonsense",98,"Mr. Wilson sings a tortuga en la escuela.",60.65860615,5," tortuga"," tort_uga",20.0508423
+"English","English --> Spanish","CS","nonsense","CS_nonsense",98,"Mr. Wilson sings a tortuga en la escuela.",60.65860615,6," en"," en",10.0436325
+"English","English --> Spanish","CS","nonsense","CS_nonsense",98,"Mr. Wilson sings a tortuga en la escuela.",60.65860615,7," la"," la",0.93946886
+"English","English --> Spanish","CS","nonsense","CS_nonsense",98,"Mr. Wilson sings a tortuga en la escuela.",60.65860615,8," escuela"," esc_uel_a_.",8.22592622
+"English","English --> Spanish","CS","nonsense","CS_nonsense",121,"A patient swallows a cama en la oficina.",63.17823316,2," patient"," patient",9.588203
+"English","English --> Spanish","CS","nonsense","CS_nonsense",121,"A patient swallows a cama en la oficina.",63.17823316,3," swallows"," swall_ows",9.384875422
+"English","English --> Spanish","CS","nonsense","CS_nonsense",121,"A patient swallows a cama en la oficina.",63.17823316,4," a"," a",0.44484442
+"English","English --> Spanish","CS","nonsense","CS_nonsense",121,"A patient swallows a cama en la oficina.",63.17823316,5," cama"," c_ama",18.529128
+"English","English --> Spanish","CS","nonsense","CS_nonsense",121,"A patient swallows a cama en la oficina.",63.17823316,6," en"," en",11.94537
+"English","English --> Spanish","CS","nonsense","CS_nonsense",121,"A patient swallows a cama en la oficina.",63.17823316,7," la"," la",3.4341302
+"English","English --> Spanish","CS","nonsense","CS_nonsense",121,"A patient swallows a cama en la oficina.",63.17823316,8," oficina"," of_ic_ina_.",9.851682117
+"English","English --> Spanish","CS","nonsense","CS_nonsense",125,"A chemist pours the caballo en el cuenco.",67.76652316,2," chemist"," chemist",12.77843
+"English","English --> Spanish","CS","nonsense","CS_nonsense",125,"A chemist pours the caballo en el cuenco.",67.76652316,3," pours"," p_ours",8.200484578
+"English","English --> Spanish","CS","nonsense","CS_nonsense",125,"A chemist pours the caballo en el cuenco.",67.76652316,4," the"," the",4.6982436
+"English","English --> Spanish","CS","nonsense","CS_nonsense",125,"A chemist pours the caballo en el cuenco.",67.76652316,5," caballo"," cab_allo",25.411835
+"English","English --> Spanish","CS","nonsense","CS_nonsense",125,"A chemist pours the caballo en el cuenco.",67.76652316,6," en"," en",7.070872
+"English","English --> Spanish","CS","nonsense","CS_nonsense",125,"A chemist pours the caballo en el cuenco.",67.76652316,7," el"," el",1.8087915
+"English","English --> Spanish","CS","nonsense","CS_nonsense",125,"A chemist pours the caballo en el cuenco.",67.76652316,8," cuenco"," cu_en_co_.",7.797866485
+"English","English --> Spanish","CS","nonsense","CS_nonsense",129,"A cousin dances a pepino en la boda.",70.70300072,2," cousin"," cousin",10.580179
+"English","English --> Spanish","CS","nonsense","CS_nonsense",129,"A cousin dances a pepino en la boda.",70.70300072,3," dances"," dances",12.998224
+"English","English --> Spanish","CS","nonsense","CS_nonsense",129,"A cousin dances a pepino en la boda.",70.70300072,4," a"," a",4.876823
+"English","English --> Spanish","CS","nonsense","CS_nonsense",129,"A cousin dances a pepino en la boda.",70.70300072,5," pepino"," p_ep_ino",22.6507495
+"English","English --> Spanish","CS","nonsense","CS_nonsense",129,"A cousin dances a pepino en la boda.",70.70300072,6," en"," en",11.1103945
+"English","English --> Spanish","CS","nonsense","CS_nonsense",129,"A cousin dances a pepino en la boda.",70.70300072,7," la"," la",0.87038136
+"English","English --> Spanish","CS","nonsense","CS_nonsense",129,"A cousin dances a pepino en la boda.",70.70300072,8," boda"," b_oda_.",7.61624936
+"English","English --> Spanish","CS","nonsense","CS_nonsense",133,"A coach chugs the papel en el campo.",61.85817746,2," coach"," coach",9.994592
+"English","English --> Spanish","CS","nonsense","CS_nonsense",133,"A coach chugs the papel en el campo.",61.85817746,3," chugs"," ch_ugs",14.5877206
+"English","English --> Spanish","CS","nonsense","CS_nonsense",133,"A coach chugs the papel en el campo.",61.85817746,4," the"," the",4.4310327
+"English","English --> Spanish","CS","nonsense","CS_nonsense",133,"A coach chugs the papel en el campo.",61.85817746,5," papel"," pap_el",17.616539
+"English","English --> Spanish","CS","nonsense","CS_nonsense",133,"A coach chugs the papel en el campo.",61.85817746,6," en"," en",7.9412847
+"English","English --> Spanish","CS","nonsense","CS_nonsense",133,"A coach chugs the papel en el campo.",61.85817746,7," el"," el",1.6630559
+"English","English --> Spanish","CS","nonsense","CS_nonsense",133,"A coach chugs the papel en el campo.",61.85817746,8," campo"," camp_o_.",5.623952563
+"English","English --> Spanish","CS","nonsense","CS_nonsense",137,"A librarian reads a rana durante el almuerzo.",69.92515549,2," librarian"," l_ibrarian",12.7142354
+"English","English --> Spanish","CS","nonsense","CS_nonsense",137,"A librarian reads a rana durante el almuerzo.",69.92515549,3," reads"," reads",7.1898465
+"English","English --> Spanish","CS","nonsense","CS_nonsense",137,"A librarian reads a rana durante el almuerzo.",69.92515549,4," a"," a",1.5282273
+"English","English --> Spanish","CS","nonsense","CS_nonsense",137,"A librarian reads a rana durante el almuerzo.",69.92515549,5," rana"," r_ana",20.896058
+"English","English --> Spanish","CS","nonsense","CS_nonsense",137,"A librarian reads a rana durante el almuerzo.",69.92515549,6," durante"," dur_ante",15.9547696
+"English","English --> Spanish","CS","nonsense","CS_nonsense",137,"A librarian reads a rana durante el almuerzo.",69.92515549,7," el"," el",2.72769
+"English","English --> Spanish","CS","nonsense","CS_nonsense",137,"A librarian reads a rana durante el almuerzo.",69.92515549,8," almuerzo"," al_m_uer_zo_.",8.914328694
+"English","English --> Spanish","CS","sense","CS_sense",0,"A runner chugs the agua en la pista.",51.32932921,2," runner"," runner",10.796345
+"English","English --> Spanish","CS","sense","CS_sense",0,"A runner chugs the agua en la pista.",51.32932921,3," chugs"," ch_ugs",11.3208913
+"English","English --> Spanish","CS","sense","CS_sense",0,"A runner chugs the agua en la pista.",51.32932921,4," the"," the",5.2031174
+"English","English --> Spanish","CS","sense","CS_sense",0,"A runner chugs the agua en la pista.",51.32932921,5," agua"," ag_ua",10.99229024
+"English","English --> Spanish","CS","sense","CS_sense",0,"A runner chugs the agua en la pista.",51.32932921,6," en"," en",7.535685
+"English","English --> Spanish","CS","sense","CS_sense",0,"A runner chugs the agua en la pista.",51.32932921,7," la"," la",1.0826435
+"English","English --> Spanish","CS","sense","CS_sense",0,"A runner chugs the agua en la pista.",51.32932921,8," pista"," pist_a_.",4.398356767
+"English","English --> Spanish","CS","sense","CS_sense",4,"A guest dances a vals en la fiesta.",53.25012869,2," guest"," guest",9.634466
+"English","English --> Spanish","CS","sense","CS_sense",4,"A guest dances a vals en la fiesta.",53.25012869,3," dances"," dances",11.150701
+"English","English --> Spanish","CS","sense","CS_sense",4,"A guest dances a vals en la fiesta.",53.25012869,4," a"," a",3.8567398
+"English","English --> Spanish","CS","sense","CS_sense",4,"A guest dances a vals en la fiesta.",53.25012869,5," vals"," v_als",9.90565
+"English","English --> Spanish","CS","sense","CS_sense",4,"A guest dances a vals en la fiesta.",53.25012869,6," en"," en",11.230942
+"English","English --> Spanish","CS","sense","CS_sense",4,"A guest dances a vals en la fiesta.",53.25012869,7," la"," la",1.5092721
+"English","English --> Spanish","CS","sense","CS_sense",4,"A guest dances a vals en la fiesta.",53.25012869,8," fiesta"," f_iesta_.",5.96235779
+"English","English --> Spanish","CS","sense","CS_sense",8,"A child reads a revista durante la clase.",53.77533825,2," child"," child",8.635959
+"English","English --> Spanish","CS","sense","CS_sense",8,"A child reads a revista durante la clase.",53.77533825,3," reads"," reads",8.211555
+"English","English --> Spanish","CS","sense","CS_sense",8,"A child reads a revista durante la clase.",53.77533825,4," a"," a",0.8305039
+"English","English --> Spanish","CS","sense","CS_sense",8,"A child reads a revista durante la clase.",53.77533825,5," revista"," rev_ista",21.100706
+"English","English --> Spanish","CS","sense","CS_sense",8,"A child reads a revista durante la clase.",53.77533825,6," durante"," dur_ante",11.33432617
+"English","English --> Spanish","CS","sense","CS_sense",8,"A child reads a revista durante la clase.",53.77533825,7," la"," la",1.9612837
+"English","English --> Spanish","CS","sense","CS_sense",8,"A child reads a revista durante la clase.",53.77533825,8," clase"," cl_ase_.",1.701004483
+"English","English --> Spanish","CS","sense","CS_sense",12,"A cousin pours the tinte sobre la cobija.",75.48813721,2," cousin"," cousin",10.580179
+"English","English --> Spanish","CS","sense","CS_sense",12,"A cousin pours the tinte sobre la cobija.",75.48813721,3," pours"," p_ours",15.0871054
+"English","English --> Spanish","CS","sense","CS_sense",12,"A cousin pours the tinte sobre la cobija.",75.48813721,4," the"," the",3.1199965
+"English","English --> Spanish","CS","sense","CS_sense",12,"A cousin pours the tinte sobre la cobija.",75.48813721,5," tinte"," tint_e",18.261386
+"English","English --> Spanish","CS","sense","CS_sense",12,"A cousin pours the tinte sobre la cobija.",75.48813721,6," sobre"," so_bre",14.640182
+"English","English --> Spanish","CS","sense","CS_sense",12,"A cousin pours the tinte sobre la cobija.",75.48813721,7," la"," la",2.2677984
+"English","English --> Spanish","CS","sense","CS_sense",12,"A cousin pours the tinte sobre la cobija.",75.48813721,8," cobija"," cob_ija_.",11.53148991
+"English","English --> Spanish","CS","sense","CS_sense",16,"A salesman swallows a pastilla en la calle.",63.92076721,2," salesman"," salesman",11.221167
+"English","English --> Spanish","CS","sense","CS_sense",16,"A salesman swallows a pastilla en la calle.",63.92076721,3," swallows"," swall_ows",12.97157194
+"English","English --> Spanish","CS","sense","CS_sense",16,"A salesman swallows a pastilla en la calle.",63.92076721,4," a"," a",0.22987655
+"English","English --> Spanish","CS","sense","CS_sense",16,"A salesman swallows a pastilla en la calle.",63.92076721,5," pastilla"," past_illa",17.915095
+"English","English --> Spanish","CS","sense","CS_sense",16,"A salesman swallows a pastilla en la calle.",63.92076721,6," en"," en",11.915193
+"English","English --> Spanish","CS","sense","CS_sense",16,"A salesman swallows a pastilla en la calle.",63.92076721,7," la"," la",3.350058
+"English","English --> Spanish","CS","sense","CS_sense",16,"A salesman swallows a pastilla en la calle.",63.92076721,8," calle"," cal_le_.",6.31780572
+"English","English --> Spanish","CS","sense","CS_sense",42,"The husband spills a sopa en la encimera.",64.78022519,2," husband"," husband",9.743252
+"English","English --> Spanish","CS","sense","CS_sense",42,"The husband spills a sopa en la encimera.",64.78022519,3," spills"," spills",13.237694
+"English","English --> Spanish","CS","sense","CS_sense",42,"The husband spills a sopa en la encimera.",64.78022519,4," a"," a",3.1825583
+"English","English --> Spanish","CS","sense","CS_sense",42,"The husband spills a sopa en la encimera.",64.78022519,5," sopa"," s_opa",17.158278
+"English","English --> Spanish","CS","sense","CS_sense",42,"The husband spills a sopa en la encimera.",64.78022519,6," en"," en",9.488376
+"English","English --> Spanish","CS","sense","CS_sense",42,"The husband spills a sopa en la encimera.",64.78022519,7," la"," la",1.9105722
+"English","English --> Spanish","CS","sense","CS_sense",42,"The husband spills a sopa en la encimera.",64.78022519,8," encimera"," enc_im_era_.",10.05949469
+"English","English --> Spanish","CS","sense","CS_sense",46,"The raccoon consumes a pez en el arroyo.",77.00981045,2," raccoon"," rac_coon",11.8305819
+"English","English --> Spanish","CS","sense","CS_sense",46,"The raccoon consumes a pez en el arroyo.",77.00981045,3," consumes"," consumes",11.849088
+"English","English --> Spanish","CS","sense","CS_sense",46,"The raccoon consumes a pez en el arroyo.",77.00981045,4," a"," a",1.7589409
+"English","English --> Spanish","CS","sense","CS_sense",46,"The raccoon consumes a pez en el arroyo.",77.00981045,5," pez"," pe_z",22.479776
+"English","English --> Spanish","CS","sense","CS_sense",46,"The raccoon consumes a pez en el arroyo.",77.00981045,6," en"," en",14.936785
+"English","English --> Spanish","CS","sense","CS_sense",46,"The raccoon consumes a pez en el arroyo.",77.00981045,7," el"," el",5.268734
+"English","English --> Spanish","CS","sense","CS_sense",46,"The raccoon consumes a pez en el arroyo.",77.00981045,8," arroyo"," ar_roy_o_.",8.885904652
+"English","English --> Spanish","CS","sense","CS_sense",50,"Mr. Smith devours the cena en su escritorio.",61.22443732,1,"",".",0.40576896
+"English","English --> Spanish","CS","sense","CS_sense",50,"Mr. Smith devours the cena en su escritorio.",61.22443732,2," Smith"," Smith",4.3721156
+"English","English --> Spanish","CS","sense","CS_sense",50,"Mr. Smith devours the cena en su escritorio.",61.22443732,3," devours"," dev_ours",15.81155
+"English","English --> Spanish","CS","sense","CS_sense",50,"Mr. Smith devours the cena en su escritorio.",61.22443732,4," the"," the",1.7069699
+"English","English --> Spanish","CS","sense","CS_sense",50,"Mr. Smith devours the cena en su escritorio.",61.22443732,5," cena"," c_ena",19.3243217
+"English","English --> Spanish","CS","sense","CS_sense",50,"Mr. Smith devours the cena en su escritorio.",61.22443732,6," en"," en",8.493563
+"English","English --> Spanish","CS","sense","CS_sense",50,"Mr. Smith devours the cena en su escritorio.",61.22443732,7," su"," su",2.956191
+"English","English --> Spanish","CS","sense","CS_sense",50,"Mr. Smith devours the cena en su escritorio.",61.22443732,8," escritorio"," esc_rit_orio_.",8.153957163
+"English","English --> Spanish","CS","sense","CS_sense",54,"Mrs. Torres sips the jugo en el salón.",57.00249075,1,"",".",0.22435063
+"English","English --> Spanish","CS","sense","CS_sense",54,"Mrs. Torres sips the jugo en el salón.",57.00249075,2," Torres"," Torres",10.1782
+"English","English --> Spanish","CS","sense","CS_sense",54,"Mrs. Torres sips the jugo en el salón.",57.00249075,3," sips"," s_ips",13.2845266
+"English","English --> Spanish","CS","sense","CS_sense",54,"Mrs. Torres sips the jugo en el salón.",57.00249075,4," the"," the",4.3970766
+"English","English --> Spanish","CS","sense","CS_sense",54,"Mrs. Torres sips the jugo en el salón.",57.00249075,5," jugo"," jug_o",13.816012
+"English","English --> Spanish","CS","sense","CS_sense",54,"Mrs. Torres sips the jugo en el salón.",57.00249075,6," en"," en",7.943478
+"English","English --> Spanish","CS","sense","CS_sense",54,"Mrs. Torres sips the jugo en el salón.",57.00249075,7," el"," el",2.2840743
+"English","English --> Spanish","CS","sense","CS_sense",54,"Mrs. Torres sips the jugo en el salón.",57.00249075,8," salón"," sal_ón_.",4.874772624
+"English","English --> Spanish","CS","sense","CS_sense",58,"Mr. Ortiz writes the libro en la biblioteca.",52.79852262,1,"",".",0.40576896
+"English","English --> Spanish","CS","sense","CS_sense",58,"Mr. Ortiz writes the libro en la biblioteca.",52.79852262,2," Ortiz"," Ortiz",9.847652
+"English","English --> Spanish","CS","sense","CS_sense",58,"Mr. Ortiz writes the libro en la biblioteca.",52.79852262,3," writes"," writes",9.344162
+"English","English --> Spanish","CS","sense","CS_sense",58,"Mr. Ortiz writes the libro en la biblioteca.",52.79852262,4," the"," the",4.0067663
+"English","English --> Spanish","CS","sense","CS_sense",58,"Mr. Ortiz writes the libro en la biblioteca.",52.79852262,5," libro"," lib_ro",17.2009857
+"English","English --> Spanish","CS","sense","CS_sense",58,"Mr. Ortiz writes the libro en la biblioteca.",52.79852262,6," en"," en",6.3124647
+"English","English --> Spanish","CS","sense","CS_sense",58,"Mr. Ortiz writes the libro en la biblioteca.",52.79852262,7," la"," la",3.2378168
+"English","English --> Spanish","CS","sense","CS_sense",58,"Mr. Ortiz writes the libro en la biblioteca.",52.79852262,8," biblioteca"," b_ibli_ot_eca_.",2.442906164
+"English","English --> Spanish","CS","sense","CS_sense",81,"A butcher fries the carne con el pimiento.",66.93642111,2," butcher"," butcher",13.52796
+"English","English --> Spanish","CS","sense","CS_sense",81,"A butcher fries the carne con el pimiento.",66.93642111,3," fries"," fries",11.352111
+"English","English --> Spanish","CS","sense","CS_sense",81,"A butcher fries the carne con el pimiento.",66.93642111,4," the"," the",4.4801807
+"English","English --> Spanish","CS","sense","CS_sense",81,"A butcher fries the carne con el pimiento.",66.93642111,5," carne"," car_ne",14.1900356
+"English","English --> Spanish","CS","sense","CS_sense",81,"A butcher fries the carne con el pimiento.",66.93642111,6," con"," con",7.6081557
+"English","English --> Spanish","CS","sense","CS_sense",81,"A butcher fries the carne con el pimiento.",66.93642111,7," el"," el",8.182914
+"English","English --> Spanish","CS","sense","CS_sense",81,"A butcher fries the carne con el pimiento.",66.93642111,8," pimiento"," pim_ient_o_.",7.595064109
+"English","English --> Spanish","CS","sense","CS_sense",85,"The hiker cooks a pollo en el fuego.",54.37527855,2," hiker"," h_iker",11.5819686
+"English","English --> Spanish","CS","sense","CS_sense",85,"The hiker cooks a pollo en el fuego.",54.37527855,3," cooks"," cooks",11.236313
+"English","English --> Spanish","CS","sense","CS_sense",85,"The hiker cooks a pollo en el fuego.",54.37527855,4," a"," a",1.4915744
+"English","English --> Spanish","CS","sense","CS_sense",85,"The hiker cooks a pollo en el fuego.",54.37527855,5," pollo"," poll_o",15.80901226
+"English","English --> Spanish","CS","sense","CS_sense",85,"The hiker cooks a pollo en el fuego.",54.37527855,6," en"," en",6.616704
+"English","English --> Spanish","CS","sense","CS_sense",85,"The hiker cooks a pollo en el fuego.",54.37527855,7," el"," el",4.332216
+"English","English --> Spanish","CS","sense","CS_sense",85,"The hiker cooks a pollo en el fuego.",54.37527855,8," fuego"," fue_go_.",3.307490287
+"English","English --> Spanish","CS","sense","CS_sense",89,"The priest eats the aguacate en la iglesia.",54.1432475,2," priest"," priest",9.493071
+"English","English --> Spanish","CS","sense","CS_sense",89,"The priest eats the aguacate en la iglesia.",54.1432475,3," eats"," eats",10.192031
+"English","English --> Spanish","CS","sense","CS_sense",89,"The priest eats the aguacate en la iglesia.",54.1432475,4," the"," the",1.6704032
+"English","English --> Spanish","CS","sense","CS_sense",89,"The priest eats the aguacate en la iglesia.",54.1432475,5," aguacate"," ag_u_ac_ate",16.57846278
+"English","English --> Spanish","CS","sense","CS_sense",89,"The priest eats the aguacate en la iglesia.",54.1432475,6," en"," en",12.120858
+"English","English --> Spanish","CS","sense","CS_sense",89,"The priest eats the aguacate en la iglesia.",54.1432475,7," la"," la",0.87390476
+"English","English --> Spanish","CS","sense","CS_sense",89,"The priest eats the aguacate en la iglesia.",54.1432475,8," iglesia"," ig_les_ia_.",3.214516758
+"English","English --> Spanish","CS","sense","CS_sense",93,"The worker chews the chicle en el edificio.",56.55117602,2," worker"," worker",9.831284
+"English","English --> Spanish","CS","sense","CS_sense",93,"The worker chews the chicle en el edificio.",56.55117602,3," chews"," che_ws",13.5351753
+"English","English --> Spanish","CS","sense","CS_sense",93,"The worker chews the chicle en el edificio.",56.55117602,4," the"," the",1.6590991
+"English","English --> Spanish","CS","sense","CS_sense",93,"The worker chews the chicle en el edificio.",56.55117602,5," chicle"," ch_icle",6.49585104
+"English","English --> Spanish","CS","sense","CS_sense",93,"The worker chews the chicle en el edificio.",56.55117602,6," en"," en",11.7752285
+"English","English --> Spanish","CS","sense","CS_sense",93,"The worker chews the chicle en el edificio.",56.55117602,7," el"," el",2.431824
+"English","English --> Spanish","CS","sense","CS_sense",93,"The worker chews the chicle en el edificio.",56.55117602,8," edificio"," ed_ific_io_.",10.82271408
+"English","English --> Spanish","CS","sense","CS_sense",97,"A godfather flies the avión sobre la ciudad.",66.53894192,2," godfather"," god_father",15.3163973
+"English","English --> Spanish","CS","sense","CS_sense",97,"A godfather flies the avión sobre la ciudad.",66.53894192,3," flies"," flies",13.55659
+"English","English --> Spanish","CS","sense","CS_sense",97,"A godfather flies the avión sobre la ciudad.",66.53894192,4," the"," the",4.2778034
+"English","English --> Spanish","CS","sense","CS_sense",97,"A godfather flies the avión sobre la ciudad.",66.53894192,5," avión"," av_i_ón",18.1829828
+"English","English --> Spanish","CS","sense","CS_sense",97,"A godfather flies the avión sobre la ciudad.",66.53894192,6," sobre"," so_bre",11.1798109
+"English","English --> Spanish","CS","sense","CS_sense",97,"A godfather flies the avión sobre la ciudad.",66.53894192,7," la"," la",2.1083086
+"English","English --> Spanish","CS","sense","CS_sense",97,"A godfather flies the avión sobre la ciudad.",66.53894192,8," ciudad"," c_i_ud_ad_.",1.917048915
+"English","English --> Spanish","CS","sense","CS_sense",122,"Ms. Jones inhales the humo en el campamento.",66.46563894,1,"",".",1.5329177
+"English","English --> Spanish","CS","sense","CS_sense",122,"Ms. Jones inhales the humo en el campamento.",66.46563894,2," Jones"," Jones",5.5878673
+"English","English --> Spanish","CS","sense","CS_sense",122,"Ms. Jones inhales the humo en el campamento.",66.46563894,3," inhales"," inh_ales",13.4510663
+"English","English --> Spanish","CS","sense","CS_sense",122,"Ms. Jones inhales the humo en el campamento.",66.46563894,4," the"," the",2.5744576
+"English","English --> Spanish","CS","sense","CS_sense",122,"Ms. Jones inhales the humo en el campamento.",66.46563894,5," humo"," hum_o",20.126478
+"English","English --> Spanish","CS","sense","CS_sense",122,"Ms. Jones inhales the humo en el campamento.",66.46563894,6," en"," en",10.667847
+"English","English --> Spanish","CS","sense","CS_sense",122,"Ms. Jones inhales the humo en el campamento.",66.46563894,7," el"," el",1.4761785
+"English","English --> Spanish","CS","sense","CS_sense",122,"Ms. Jones inhales the humo en el campamento.",66.46563894,8," campamento"," camp_ament_o_.",11.04882654
+"English","English --> Spanish","CS","sense","CS_sense",126,"A grandfather sings a canción en su jardín.",51.62141741,2," grandfather"," grandfather",11.971608
+"English","English --> Spanish","CS","sense","CS_sense",126,"A grandfather sings a canción en su jardín.",51.62141741,3," sings"," sings",10.728647
+"English","English --> Spanish","CS","sense","CS_sense",126,"A grandfather sings a canción en su jardín.",51.62141741,4," a"," a",1.0412692
+"English","English --> Spanish","CS","sense","CS_sense",126,"A grandfather sings a canción en su jardín.",51.62141741,5," canción"," can_ci_ón",13.09322119
+"English","English --> Spanish","CS","sense","CS_sense",126,"A grandfather sings a canción en su jardín.",51.62141741,6," en"," en",8.168653
+"English","English --> Spanish","CS","sense","CS_sense",126,"A grandfather sings a canción en su jardín.",51.62141741,7," su"," su",4.170661
+"English","English --> Spanish","CS","sense","CS_sense",126,"A grandfather sings a canción en su jardín.",51.62141741,8," jardín"," j_ard_ín_.",2.44735802
+"English","English --> Spanish","CS","sense","CS_sense",130,"The host bakes the pavo en la tarde.",63.5670115,2," host"," host",8.455728
+"English","English --> Spanish","CS","sense","CS_sense",130,"The host bakes the pavo en la tarde.",63.5670115,3," bakes"," b_akes",14.1774014
+"English","English --> Spanish","CS","sense","CS_sense",130,"The host bakes the pavo en la tarde.",63.5670115,4," the"," the",1.870587
+"English","English --> Spanish","CS","sense","CS_sense",130,"The host bakes the pavo en la tarde.",63.5670115,5," pavo"," pav_o",19.3545124
+"English","English --> Spanish","CS","sense","CS_sense",130,"The host bakes the pavo en la tarde.",63.5670115,6," en"," en",9.787731
+"English","English --> Spanish","CS","sense","CS_sense",130,"The host bakes the pavo en la tarde.",63.5670115,7," la"," la",1.4703798
+"English","English --> Spanish","CS","sense","CS_sense",130,"The host bakes the pavo en la tarde.",63.5670115,8," tarde"," t_arde_.",8.4506719
+"English","English --> Spanish","CS","sense","CS_sense",134,"A doctor drinks the vino en la acogida.",70.577878,2," doctor"," doctor",9.286129
+"English","English --> Spanish","CS","sense","CS_sense",134,"A doctor drinks the vino en la acogida.",70.577878,3," drinks"," drinks",12.118051
+"English","English --> Spanish","CS","sense","CS_sense",134,"A doctor drinks the vino en la acogida.",70.577878,4," the"," the",3.8590183
+"English","English --> Spanish","CS","sense","CS_sense",134,"A doctor drinks the vino en la acogida.",70.577878,5," vino"," v_ino",13.391109
+"English","English --> Spanish","CS","sense","CS_sense",134,"A doctor drinks the vino en la acogida.",70.577878,6," en"," en",11.888001
+"English","English --> Spanish","CS","sense","CS_sense",134,"A doctor drinks the vino en la acogida.",70.577878,7," la"," la",2.0197568
+"English","English --> Spanish","CS","sense","CS_sense",134,"A doctor drinks the vino en la acogida.",70.577878,8," acogida"," ac_og_ida_.",18.0158129
+"English","English --> Spanish","CS","sense","CS_sense",138,"The niece peels a zanahoria en el lavabo.",69.28747879,2," niece"," niece",13.097674
+"English","English --> Spanish","CS","sense","CS_sense",138,"The niece peels a zanahoria en el lavabo.",69.28747879,3," peels"," pe_els",13.5797773
+"English","English --> Spanish","CS","sense","CS_sense",138,"The niece peels a zanahoria en el lavabo.",69.28747879,4," a"," a",3.9321263
+"English","English --> Spanish","CS","sense","CS_sense",138,"The niece peels a zanahoria en el lavabo.",69.28747879,5," zanahoria"," z_an_ah_oria",18.08617881
+"English","English --> Spanish","CS","sense","CS_sense",138,"The niece peels a zanahoria en el lavabo.",69.28747879,6," en"," en",11.651989
+"English","English --> Spanish","CS","sense","CS_sense",138,"The niece peels a zanahoria en el lavabo.",69.28747879,7," el"," el",2.101728
+"English","English --> Spanish","CS","sense","CS_sense",138,"The niece peels a zanahoria en el lavabo.",69.28747879,8," lavabo"," lav_abo_.",6.83800538
+"English","English --> English","noCS","nonsense","noCS_nonsense",1,"A manager sings a turtle in the bus.",56.8386604,2," manager"," manager",9.692593
+"English","English --> English","noCS","nonsense","noCS_nonsense",1,"A manager sings a turtle in the bus.",56.8386604,3," sings"," sings",13.2007065
+"English","English --> English","noCS","nonsense","noCS_nonsense",1,"A manager sings a turtle in the bus.",56.8386604,4," a"," a",1.9708148
+"English","English --> English","noCS","nonsense","noCS_nonsense",1,"A manager sings a turtle in the bus.",56.8386604,5," turtle"," turtle",12.907362
+"English","English --> English","noCS","nonsense","noCS_nonsense",1,"A manager sings a turtle in the bus.",56.8386604,6," in"," in",5.3662486
+"English","English --> English","noCS","nonsense","noCS_nonsense",1,"A manager sings a turtle in the bus.",56.8386604,7," the"," the",0.7388391
+"English","English --> English","noCS","nonsense","noCS_nonsense",1,"A manager sings a turtle in the bus.",56.8386604,8," bus"," bus_.",12.9620964
+"English","English --> English","noCS","nonsense","noCS_nonsense",5,"The sister peels a spoon in the bag.",58.9878314,2," sister"," sister",10.446601
+"English","English --> English","noCS","nonsense","noCS_nonsense",5,"The sister peels a spoon in the bag.",58.9878314,3," peels"," pe_els",14.2133323
+"English","English --> English","noCS","nonsense","noCS_nonsense",5,"The sister peels a spoon in the bag.",58.9878314,4," a"," a",3.6921108
+"English","English --> English","noCS","nonsense","noCS_nonsense",5,"The sister peels a spoon in the bag.",58.9878314,5," spoon"," spoon",9.287422
+"English","English --> English","noCS","nonsense","noCS_nonsense",5,"The sister peels a spoon in the bag.",58.9878314,6," in"," in",6.055739
+"English","English --> English","noCS","nonsense","noCS_nonsense",5,"The sister peels a spoon in the bag.",58.9878314,7," the"," the",0.5558653
+"English","English --> English","noCS","nonsense","noCS_nonsense",5,"The sister peels a spoon in the bag.",58.9878314,8," bag"," bag_.",14.736761
+"English","English --> English","noCS","nonsense","noCS_nonsense",9,"The plumber bakes the pillow in the oven.",51.54601142,2," plumber"," pl_umber",11.2805916
+"English","English --> English","noCS","nonsense","noCS_nonsense",9,"The plumber bakes the pillow in the oven.",51.54601142,3," bakes"," b_akes",14.6819773
+"English","English --> English","noCS","nonsense","noCS_nonsense",9,"The plumber bakes the pillow in the oven.",51.54601142,4," the"," the",3.1258516
+"English","English --> English","noCS","nonsense","noCS_nonsense",9,"The plumber bakes the pillow in the oven.",51.54601142,5," pillow"," pillow",12.770923
+"English","English --> English","noCS","nonsense","noCS_nonsense",9,"The plumber bakes the pillow in the oven.",51.54601142,6," in"," in",6.205291
+"English","English --> English","noCS","nonsense","noCS_nonsense",9,"The plumber bakes the pillow in the oven.",51.54601142,7," the"," the",0.16690704
+"English","English --> English","noCS","nonsense","noCS_nonsense",9,"The plumber bakes the pillow in the oven.",51.54601142,8," oven"," oven_.",3.31446988
+"English","English --> English","noCS","nonsense","noCS_nonsense",13,"The daughter inhales the language in the lounge.",57.73633526,2," daughter"," daughter",9.330752
+"English","English --> English","noCS","nonsense","noCS_nonsense",13,"The daughter inhales the language in the lounge.",57.73633526,3," inhales"," inh_ales",12.44740616
+"English","English --> English","noCS","nonsense","noCS_nonsense",13,"The daughter inhales the language in the lounge.",57.73633526,4," the"," the",1.2336601
+"English","English --> English","noCS","nonsense","noCS_nonsense",13,"The daughter inhales the language in the lounge.",57.73633526,5," language"," language",12.407909
+"English","English --> English","noCS","nonsense","noCS_nonsense",13,"The daughter inhales the language in the lounge.",57.73633526,6," in"," in",5.6471944
+"English","English --> English","noCS","nonsense","noCS_nonsense",13,"The daughter inhales the language in the lounge.",57.73633526,7," the"," the",1.4925216
+"English","English --> English","noCS","nonsense","noCS_nonsense",13,"The daughter inhales the language in the lounge.",57.73633526,8," lounge"," lounge_.",15.176892
+"English","English --> English","noCS","nonsense","noCS_nonsense",17,"A judge drinks the bank in the evening.",51.71220056,2," judge"," judge",9.384473
+"English","English --> English","noCS","nonsense","noCS_nonsense",17,"A judge drinks the bank in the evening.",51.71220056,3," drinks"," drinks",14.167261
+"English","English --> English","noCS","nonsense","noCS_nonsense",17,"A judge drinks the bank in the evening.",51.71220056,4," the"," the",3.928945
+"English","English --> English","noCS","nonsense","noCS_nonsense",17,"A judge drinks the bank in the evening.",51.71220056,5," bank"," bank",11.446481
+"English","English --> English","noCS","nonsense","noCS_nonsense",17,"A judge drinks the bank in the evening.",51.71220056,6," in"," in",6.4720488
+"English","English --> English","noCS","nonsense","noCS_nonsense",17,"A judge drinks the bank in the evening.",51.71220056,7," the"," the",0.75745046
+"English","English --> English","noCS","nonsense","noCS_nonsense",17,"A judge drinks the bank in the evening.",51.71220056,8," evening"," evening_.",5.5555413
+"English","English --> English","noCS","nonsense","noCS_nonsense",41,"A friend dances a cucumber at the reception.",64.5968737,2," friend"," friend",7.63552
+"English","English --> English","noCS","nonsense","noCS_nonsense",41,"A friend dances a cucumber at the reception.",64.5968737,3," dances"," dances",13.7622
+"English","English --> English","noCS","nonsense","noCS_nonsense",41,"A friend dances a cucumber at the reception.",64.5968737,4," a"," a",4.5933557
+"English","English --> English","noCS","nonsense","noCS_nonsense",41,"A friend dances a cucumber at the reception.",64.5968737,5," cucumber"," cuc_umber",16.0721704
+"English","English --> English","noCS","nonsense","noCS_nonsense",41,"A friend dances a cucumber at the reception.",64.5968737,6," at"," at",7.9914474
+"English","English --> English","noCS","nonsense","noCS_nonsense",41,"A friend dances a cucumber at the reception.",64.5968737,7," the"," the",1.3886012
+"English","English --> English","noCS","nonsense","noCS_nonsense",41,"A friend dances a cucumber at the reception.",64.5968737,8," reception"," reception_.",13.153579
+"English","English --> English","noCS","nonsense","noCS_nonsense",45,"A mom swallows a bed during the appointment.",66.36285189,2," mom"," mom",11.09207
+"English","English --> English","noCS","nonsense","noCS_nonsense",45,"A mom swallows a bed during the appointment.",66.36285189,3," swallows"," swall_ows",12.61078335
+"English","English --> English","noCS","nonsense","noCS_nonsense",45,"A mom swallows a bed during the appointment.",66.36285189,4," a"," a",0.82409745
+"English","English --> English","noCS","nonsense","noCS_nonsense",45,"A mom swallows a bed during the appointment.",66.36285189,5," bed"," bed",9.452378
+"English","English --> English","noCS","nonsense","noCS_nonsense",45,"A mom swallows a bed during the appointment.",66.36285189,6," during"," during",12.756507
+"English","English --> English","noCS","nonsense","noCS_nonsense",45,"A mom swallows a bed during the appointment.",66.36285189,7," the"," the",1.557193
+"English","English --> English","noCS","nonsense","noCS_nonsense",45,"A mom swallows a bed during the appointment.",66.36285189,8," appointment"," appointment_.",18.0698231
+"English","English --> English","noCS","nonsense","noCS_nonsense",49,"A grandmother reads a frog during the movie.",58.1544736,2," grandmother"," grandmother",11.23622
+"English","English --> English","noCS","nonsense","noCS_nonsense",49,"A grandmother reads a frog during the movie.",58.1544736,3," reads"," reads",8.92046
+"English","English --> English","noCS","nonsense","noCS_nonsense",49,"A grandmother reads a frog during the movie.",58.1544736,4," a"," a",1.3816332
+"English","English --> English","noCS","nonsense","noCS_nonsense",49,"A grandmother reads a frog during the movie.",58.1544736,5," frog"," frog",11.75675
+"English","English --> English","noCS","nonsense","noCS_nonsense",49,"A grandmother reads a frog during the movie.",58.1544736,6," during"," during",12.276621
+"English","English --> English","noCS","nonsense","noCS_nonsense",49,"A grandmother reads a frog during the movie.",58.1544736,7," the"," the",1.9918748
+"English","English --> English","noCS","nonsense","noCS_nonsense",49,"A grandmother reads a frog during the movie.",58.1544736,8," movie"," movie_.",10.5909146
+"English","English --> English","noCS","nonsense","noCS_nonsense",53,"A son pours the horse onto the shirt.",61.40178017,2," son"," son",10.705638
+"English","English --> English","noCS","nonsense","noCS_nonsense",53,"A son pours the horse onto the shirt.",61.40178017,3," pours"," p_ours",15.593379
+"English","English --> English","noCS","nonsense","noCS_nonsense",53,"A son pours the horse onto the shirt.",61.40178017,4," the"," the",3.937681
+"English","English --> English","noCS","nonsense","noCS_nonsense",53,"A son pours the horse onto the shirt.",61.40178017,5," horse"," horse",10.298131
+"English","English --> English","noCS","nonsense","noCS_nonsense",53,"A son pours the horse onto the shirt.",61.40178017,6," onto"," onto",9.332384
+"English","English --> English","noCS","nonsense","noCS_nonsense",53,"A son pours the horse onto the shirt.",61.40178017,7," the"," the",0.24004537
+"English","English --> English","noCS","nonsense","noCS_nonsense",53,"A son pours the horse onto the shirt.",61.40178017,8," shirt"," shirt_.",11.2945218
+"English","English --> English","noCS","nonsense","noCS_nonsense",57,"A player chugs the paper in the gym.",59.6355487,2," player"," player",9.3162
+"English","English --> English","noCS","nonsense","noCS_nonsense",57,"A player chugs the paper in the gym.",59.6355487,3," chugs"," ch_ugs",15.275277
+"English","English --> English","noCS","nonsense","noCS_nonsense",57,"A player chugs the paper in the gym.",59.6355487,4," the"," the",3.439721
+"English","English --> English","noCS","nonsense","noCS_nonsense",57,"A player chugs the paper in the gym.",59.6355487,5," paper"," paper",11.206581
+"English","English --> English","noCS","nonsense","noCS_nonsense",57,"A player chugs the paper in the gym.",59.6355487,6," in"," in",5.8010273
+"English","English --> English","noCS","nonsense","noCS_nonsense",57,"A player chugs the paper in the gym.",59.6355487,7," the"," the",1.6510854
+"English","English --> English","noCS","nonsense","noCS_nonsense",57,"A player chugs the paper in the gym.",59.6355487,8," gym"," gym_.",12.945657
+"English","English --> English","noCS","nonsense","noCS_nonsense",80,"The hawk consumes a background at the river.",57.0028392,2," hawk"," hawk",11.874802
+"English","English --> English","noCS","nonsense","noCS_nonsense",80,"The hawk consumes a background at the river.",57.0028392,3," consumes"," consumes",10.868486
+"English","English --> English","noCS","nonsense","noCS_nonsense",80,"The hawk consumes a background at the river.",57.0028392,4," a"," a",2.5886605
+"English","English --> English","noCS","nonsense","noCS_nonsense",80,"The hawk consumes a background at the river.",57.0028392,5," background"," background",13.697473
+"English","English --> English","noCS","nonsense","noCS_nonsense",80,"The hawk consumes a background at the river.",57.0028392,6," at"," at",7.8538413
+"English","English --> English","noCS","nonsense","noCS_nonsense",80,"The hawk consumes a background at the river.",57.0028392,7," the"," the",1.2573854
+"English","English --> English","noCS","nonsense","noCS_nonsense",80,"The hawk consumes a background at the river.",57.0028392,8," river"," river_.",8.862191
+"English","English --> English","noCS","nonsense","noCS_nonsense",84,"The lawyer devours the beach in the chair.",53.01156035,2," lawyer"," lawyer",8.901002
+"English","English --> English","noCS","nonsense","noCS_nonsense",84,"The lawyer devours the beach in the chair.",53.01156035,3," devours"," dev_ours",15.3658266
+"English","English --> English","noCS","nonsense","noCS_nonsense",84,"The lawyer devours the beach in the chair.",53.01156035,4," the"," the",1.073835
+"English","English --> English","noCS","nonsense","noCS_nonsense",84,"The lawyer devours the beach in the chair.",53.01156035,5," beach"," beach",9.935811
+"English","English --> English","noCS","nonsense","noCS_nonsense",84,"The lawyer devours the beach in the chair.",53.01156035,6," in"," in",6.0801206
+"English","English --> English","noCS","nonsense","noCS_nonsense",84,"The lawyer devours the beach in the chair.",53.01156035,7," the"," the",0.90984535
+"English","English --> English","noCS","nonsense","noCS_nonsense",84,"The lawyer devours the beach in the chair.",53.01156035,8," chair"," chair_.",10.7451198
+"English","English --> English","noCS","nonsense","noCS_nonsense",88,"The employee sips the chess in the morning.",55.43130965,2," employee"," employee",9.112482
+"English","English --> English","noCS","nonsense","noCS_nonsense",88,"The employee sips the chess in the morning.",55.43130965,3," sips"," s_ips",16.692952
+"English","English --> English","noCS","nonsense","noCS_nonsense",88,"The employee sips the chess in the morning.",55.43130965,4," the"," the",1.9918157
+"English","English --> English","noCS","nonsense","noCS_nonsense",88,"The employee sips the chess in the morning.",55.43130965,5," chess"," chess",14.92864
+"English","English --> English","noCS","nonsense","noCS_nonsense",88,"The employee sips the chess in the morning.",55.43130965,6," in"," in",5.413236
+"English","English --> English","noCS","nonsense","noCS_nonsense",88,"The employee sips the chess in the morning.",55.43130965,7," the"," the",0.99153465
+"English","English --> English","noCS","nonsense","noCS_nonsense",88,"The employee sips the chess in the morning.",55.43130965,8," morning"," morning_.",6.3006493
+"English","English --> English","noCS","nonsense","noCS_nonsense",92,"The singer spills a race on his floor.",57.7646712,2," singer"," singer",8.888586
+"English","English --> English","noCS","nonsense","noCS_nonsense",92,"The singer spills a race on his floor.",57.7646712,3," spills"," spills",11.396809
+"English","English --> English","noCS","nonsense","noCS_nonsense",92,"The singer spills a race on his floor.",57.7646712,4," a"," a",3.834616
+"English","English --> English","noCS","nonsense","noCS_nonsense",92,"The singer spills a race on his floor.",57.7646712,5," race"," race",13.093204
+"English","English --> English","noCS","nonsense","noCS_nonsense",92,"The singer spills a race on his floor.",57.7646712,6," on"," on",5.5339756
+"English","English --> English","noCS","nonsense","noCS_nonsense",92,"The singer spills a race on his floor.",57.7646712,7," his"," his",3.257396
+"English","English --> English","noCS","nonsense","noCS_nonsense",92,"The singer spills a race on his floor.",57.7646712,8," floor"," floor_.",11.7600846
+"English","English --> English","noCS","nonsense","noCS_nonsense",96,"A brother writes the mirror in his bedroom.",49.3289112,2," brother"," brother",10.46646
+"English","English --> English","noCS","nonsense","noCS_nonsense",96,"A brother writes the mirror in his bedroom.",49.3289112,3," writes"," writes",9.601782
+"English","English --> English","noCS","nonsense","noCS_nonsense",96,"A brother writes the mirror in his bedroom.",49.3289112,4," the"," the",3.8039603
+"English","English --> English","noCS","nonsense","noCS_nonsense",96,"A brother writes the mirror in his bedroom.",49.3289112,5," mirror"," mirror",12.391952
+"English","English --> English","noCS","nonsense","noCS_nonsense",96,"A brother writes the mirror in his bedroom.",49.3289112,6," in"," in",4.6236963
+"English","English --> English","noCS","nonsense","noCS_nonsense",96,"A brother writes the mirror in his bedroom.",49.3289112,7," his"," his",1.3869236
+"English","English --> English","noCS","nonsense","noCS_nonsense",96,"A brother writes the mirror in his bedroom.",49.3289112,8," bedroom"," bedroom_.",7.054137
+"English","English --> English","noCS","nonsense","noCS_nonsense",123,"Ms. López flies the boat in the afternoon.",50.509343,1,"",".",1.5340728
+"English","English --> English","noCS","nonsense","noCS_nonsense",123,"Ms. López flies the boat in the afternoon.",50.509343,2," López"," L_ó_pez",9.892679223
+"English","English --> English","noCS","nonsense","noCS_nonsense",123,"Ms. López flies the boat in the afternoon.",50.509343,3," flies"," flies",12.389992
+"English","English --> English","noCS","nonsense","noCS_nonsense",123,"Ms. López flies the boat in the afternoon.",50.509343,4," the"," the",3.4993863
+"English","English --> English","noCS","nonsense","noCS_nonsense",123,"Ms. López flies the boat in the afternoon.",50.509343,5," boat"," boat",8.64825
+"English","English --> English","noCS","nonsense","noCS_nonsense",123,"Ms. López flies the boat in the afternoon.",50.509343,6," in"," in",6.4174128
+"English","English --> English","noCS","nonsense","noCS_nonsense",123,"Ms. López flies the boat in the afternoon.",50.509343,7," the"," the",0.42478368
+"English","English --> English","noCS","nonsense","noCS_nonsense",123,"Ms. López flies the boat in the afternoon.",50.509343,8," afternoon"," afternoon_.",7.7027662
+"English","English --> English","noCS","nonsense","noCS_nonsense",127,"Mr. Johnson eats the essay in his office.",50.5010187,1,"",".",0.4056097
+"English","English --> English","noCS","nonsense","noCS_nonsense",127,"Mr. Johnson eats the essay in his office.",50.5010187,2," Johnson"," Johnson",5.4237523
+"English","English --> English","noCS","nonsense","noCS_nonsense",127,"Mr. Johnson eats the essay in his office.",50.5010187,3," eats"," eats",12.029742
+"English","English --> English","noCS","nonsense","noCS_nonsense",127,"Mr. Johnson eats the essay in his office.",50.5010187,4," the"," the",4.038503
+"English","English --> English","noCS","nonsense","noCS_nonsense",127,"Mr. Johnson eats the essay in his office.",50.5010187,5," essay"," essay",12.478199
+"English","English --> English","noCS","nonsense","noCS_nonsense",127,"Mr. Johnson eats the essay in his office.",50.5010187,6," in"," in",7.2733283
+"English","English --> English","noCS","nonsense","noCS_nonsense",127,"Mr. Johnson eats the essay in his office.",50.5010187,7," his"," his",3.203707
+"English","English --> English","noCS","nonsense","noCS_nonsense",127,"Mr. Johnson eats the essay in his office.",50.5010187,8," office"," office_.",5.6481774
+"English","English --> English","noCS","nonsense","noCS_nonsense",131,"Mr. Muñoz chews the elevator during the lunch.",60.2240729,1,"",".",0.4055822
+"English","English --> English","noCS","nonsense","noCS_nonsense",131,"Mr. Muñoz chews the elevator during the lunch.",60.2240729,2," Muñoz"," Mu_ñ_oz",10.7380137
+"English","English --> English","noCS","nonsense","noCS_nonsense",131,"Mr. Muñoz chews the elevator during the lunch.",60.2240729,3," chews"," che_ws",14.904906
+"English","English --> English","noCS","nonsense","noCS_nonsense",131,"Mr. Muñoz chews the elevator during the lunch.",60.2240729,4," the"," the",3.7961137
+"English","English --> English","noCS","nonsense","noCS_nonsense",131,"Mr. Muñoz chews the elevator during the lunch.",60.2240729,5," elevator"," elevator",12.026096
+"English","English --> English","noCS","nonsense","noCS_nonsense",131,"Mr. Muñoz chews the elevator during the lunch.",60.2240729,6," during"," during",9.956215
+"English","English --> English","noCS","nonsense","noCS_nonsense",131,"Mr. Muñoz chews the elevator during the lunch.",60.2240729,7," the"," the",1.069191
+"English","English --> English","noCS","nonsense","noCS_nonsense",131,"Mr. Muñoz chews the elevator during the lunch.",60.2240729,8," lunch"," lunch_.",7.3279553
+"English","English --> English","noCS","nonsense","noCS_nonsense",135,"A wife fries the cloud with the herbs.",62.0913951,2," wife"," wife",10.315565
+"English","English --> English","noCS","nonsense","noCS_nonsense",135,"A wife fries the cloud with the herbs.",62.0913951,3," fries"," fries",14.406353
+"English","English --> English","noCS","nonsense","noCS_nonsense",135,"A wife fries the cloud with the herbs.",62.0913951,4," the"," the",3.026662
+"English","English --> English","noCS","nonsense","noCS_nonsense",135,"A wife fries the cloud with the herbs.",62.0913951,5," cloud"," cloud",13.689989
+"English","English --> English","noCS","nonsense","noCS_nonsense",135,"A wife fries the cloud with the herbs.",62.0913951,6," with"," with",5.444359
+"English","English --> English","noCS","nonsense","noCS_nonsense",135,"A wife fries the cloud with the herbs.",62.0913951,7," the"," the",2.0702224
+"English","English --> English","noCS","nonsense","noCS_nonsense",135,"A wife fries the cloud with the herbs.",62.0913951,8," herbs"," herbs_.",13.1382447
+"English","English --> English","noCS","nonsense","noCS_nonsense",139,"Mrs. Harris cooks a bridge in the pan.",54.61363001,1,"",".",0.22435063
+"English","English --> English","noCS","nonsense","noCS_nonsense",139,"Mrs. Harris cooks a bridge in the pan.",54.61363001,2," Harris"," Harris",6.125776
+"English","English --> English","noCS","nonsense","noCS_nonsense",139,"Mrs. Harris cooks a bridge in the pan.",54.61363001,3," cooks"," cooks",13.202921
+"English","English --> English","noCS","nonsense","noCS_nonsense",139,"Mrs. Harris cooks a bridge in the pan.",54.61363001,4," a"," a",4.0920434
+"English","English --> English","noCS","nonsense","noCS_nonsense",139,"Mrs. Harris cooks a bridge in the pan.",54.61363001,5," bridge"," bridge",14.210011
+"English","English --> English","noCS","nonsense","noCS_nonsense",139,"Mrs. Harris cooks a bridge in the pan.",54.61363001,6," in"," in",6.3324594
+"English","English --> English","noCS","nonsense","noCS_nonsense",139,"Mrs. Harris cooks a bridge in the pan.",54.61363001,7," the"," the",0.49830818
+"English","English --> English","noCS","nonsense","noCS_nonsense",139,"Mrs. Harris cooks a bridge in the pan.",54.61363001,8," pan"," pan_.",9.9277604
+"English","English --> English","noCS","sense","noCS_sense",3,"The student chews the gum during the break.",44.56851607,2," student"," student",7.708524
+"English","English --> English","noCS","sense","noCS_sense",3,"The student chews the gum during the break.",44.56851607,3," chews"," che_ws",14.4806182
+"English","English --> English","noCS","sense","noCS_sense",3,"The student chews the gum during the break.",44.56851607,4," the"," the",2.11633
+"English","English --> English","noCS","sense","noCS_sense",3,"The student chews the gum during the break.",44.56851607,5," gum"," gum",2.0094278
+"English","English --> English","noCS","sense","noCS_sense",3,"The student chews the gum during the break.",44.56851607,6," during"," during",7.56442
+"English","English --> English","noCS","sense","noCS_sense",3,"The student chews the gum during the break.",44.56851607,7," the"," the",0.85526377
+"English","English --> English","noCS","sense","noCS_sense",3,"The student chews the gum during the break.",44.56851607,8," break"," break_.",9.8339323
+"English","English --> English","noCS","sense","noCS_sense",7,"A pilot flies the plane through the sky.",34.48439067,2," pilot"," pilot",9.910988
+"English","English --> English","noCS","sense","noCS_sense",7,"A pilot flies the plane through the sky.",34.48439067,3," flies"," flies",8.583608
+"English","English --> English","noCS","sense","noCS_sense",7,"A pilot flies the plane through the sky.",34.48439067,4," the"," the",3.2422438
+"English","English --> English","noCS","sense","noCS_sense",7,"A pilot flies the plane through the sky.",34.48439067,5," plane"," plane",1.1099324
+"English","English --> English","noCS","sense","noCS_sense",7,"A pilot flies the plane through the sky.",34.48439067,6," through"," through",6.205931
+"English","English --> English","noCS","sense","noCS_sense",7,"A pilot flies the plane through the sky.",34.48439067,7," the"," the",0.77156067
+"English","English --> English","noCS","sense","noCS_sense",7,"A pilot flies the plane through the sky.",34.48439067,8," sky"," sky_.",4.6601268
+"English","English --> English","noCS","sense","noCS_sense",11,"A farmer fries the meat in the pan.",43.26159946,2," farmer"," farmer",10.343054
+"English","English --> English","noCS","sense","noCS_sense",11,"A farmer fries the meat in the pan.",43.26159946,3," fries"," fries",12.472218
+"English","English --> English","noCS","sense","noCS_sense",11,"A farmer fries the meat in the pan.",43.26159946,4," the"," the",5.230717
+"English","English --> English","noCS","sense","noCS_sense",11,"A farmer fries the meat in the pan.",43.26159946,5," meat"," meat",5.835603
+"English","English --> English","noCS","sense","noCS_sense",11,"A farmer fries the meat in the pan.",43.26159946,6," in"," in",3.707433
+"English","English --> English","noCS","sense","noCS_sense",11,"A farmer fries the meat in the pan.",43.26159946,7," the"," the",1.4908347
+"English","English --> English","noCS","sense","noCS_sense",11,"A farmer fries the meat in the pan.",43.26159946,8," pan"," pan_.",4.18173976
+"English","English --> English","noCS","sense","noCS_sense",15,"The dad cooks a chicken on the grill.",40.7610672,2," dad"," dad",10.876649
+"English","English --> English","noCS","sense","noCS_sense",15,"The dad cooks a chicken on the grill.",40.7610672,3," cooks"," cooks",10.400404
+"English","English --> English","noCS","sense","noCS_sense",15,"The dad cooks a chicken on the grill.",40.7610672,4," a"," a",4.764321
+"English","English --> English","noCS","sense","noCS_sense",15,"The dad cooks a chicken on the grill.",40.7610672,5," chicken"," chicken",5.643599
+"English","English --> English","noCS","sense","noCS_sense",15,"The dad cooks a chicken on the grill.",40.7610672,6," on"," on",6.58755
+"English","English --> English","noCS","sense","noCS_sense",15,"The dad cooks a chicken on the grill.",40.7610672,7," the"," the",0.3600542
+"English","English --> English","noCS","sense","noCS_sense",15,"The dad cooks a chicken on the grill.",40.7610672,8," grill"," grill_.",2.12849
+"English","English --> English","noCS","sense","noCS_sense",19,"The teacher eats the avocado in the classroom.",42.38983701,2," teacher"," teacher",8.368439
+"English","English --> English","noCS","sense","noCS_sense",19,"The teacher eats the avocado in the classroom.",42.38983701,3," eats"," eats",9.120888
+"English","English --> English","noCS","sense","noCS_sense",19,"The teacher eats the avocado in the classroom.",42.38983701,4," the"," the",2.0700207
+"English","English --> English","noCS","sense","noCS_sense",19,"The teacher eats the avocado in the classroom.",42.38983701,5," avocado"," avocado",9.774225
+"English","English --> English","noCS","sense","noCS_sense",19,"The teacher eats the avocado in the classroom.",42.38983701,6," in"," in",8.369947
+"English","English --> English","noCS","sense","noCS_sense",19,"The teacher eats the avocado in the classroom.",42.38983701,7," the"," the",0.12793401
+"English","English --> English","noCS","sense","noCS_sense",19,"The teacher eats the avocado in the classroom.",42.38983701,8," classroom"," classroom_.",4.5583833
+"English","English --> English","noCS","sense","noCS_sense",43,"The cook peels a carrot in the kitchen.",30.63671358,2," cook"," cook",10.319297
+"English","English --> English","noCS","sense","noCS_sense",43,"The cook peels a carrot in the kitchen.",30.63671358,3," peels"," pe_els",8.14163253
+"English","English --> English","noCS","sense","noCS_sense",43,"The cook peels a carrot in the kitchen.",30.63671358,4," a"," a",4.7211914
+"English","English --> English","noCS","sense","noCS_sense",43,"The cook peels a carrot in the kitchen.",30.63671358,5," carrot"," carrot",1.6113231
+"English","English --> English","noCS","sense","noCS_sense",43,"The cook peels a carrot in the kitchen.",30.63671358,6," in"," in",5.366098
+"English","English --> English","noCS","sense","noCS_sense",43,"The cook peels a carrot in the kitchen.",30.63671358,7," the"," the",0.28942096
+"English","English --> English","noCS","sense","noCS_sense",43,"The cook peels a carrot in the kitchen.",30.63671358,8," kitchen"," kitchen_.",0.187750591
+"English","English --> English","noCS","sense","noCS_sense",47,"A driver sings a tune in the car.",39.13015754,2," driver"," driver",9.18059
+"English","English --> English","noCS","sense","noCS_sense",47,"A driver sings a tune in the car.",39.13015754,3," sings"," sings",12.490046
+"English","English --> English","noCS","sense","noCS_sense",47,"A driver sings a tune in the car.",39.13015754,4," a"," a",1.9128983
+"English","English --> English","noCS","sense","noCS_sense",47,"A driver sings a tune in the car.",39.13015754,5," tune"," tune",4.2376804
+"English","English --> English","noCS","sense","noCS_sense",47,"A driver sings a tune in the car.",39.13015754,6," in"," in",4.3805428
+"English","English --> English","noCS","sense","noCS_sense",47,"A driver sings a tune in the car.",39.13015754,7," the"," the",1.0721903
+"English","English --> English","noCS","sense","noCS_sense",47,"A driver sings a tune in the car.",39.13015754,8," car"," car_.",5.85620974
+"English","English --> English","noCS","sense","noCS_sense",51,"The nanny bakes the turkey for the dinner.",49.5133304,2," nanny"," n_anny",12.28069
+"English","English --> English","noCS","sense","noCS_sense",51,"The nanny bakes the turkey for the dinner.",49.5133304,3," bakes"," b_akes",13.466481
+"English","English --> English","noCS","sense","noCS_sense",51,"The nanny bakes the turkey for the dinner.",49.5133304,4," the"," the",2.7287352
+"English","English --> English","noCS","sense","noCS_sense",51,"The nanny bakes the turkey for the dinner.",49.5133304,5," turkey"," turkey",8.472041
+"English","English --> English","noCS","sense","noCS_sense",51,"The nanny bakes the turkey for the dinner.",49.5133304,6," for"," for",4.7746687
+"English","English --> English","noCS","sense","noCS_sense",51,"The nanny bakes the turkey for the dinner.",49.5133304,7," the"," the",1.8269382
+"English","English --> English","noCS","sense","noCS_sense",51,"The nanny bakes the turkey for the dinner.",49.5133304,8," dinner"," dinner_.",5.9637763
+"English","English --> English","noCS","sense","noCS_sense",55,"The traveler inhales the smoke in the forest.",43.27639921,2," traveler"," traveler",11.32482
+"English","English --> English","noCS","sense","noCS_sense",55,"The traveler inhales the smoke in the forest.",43.27639921,3," inhales"," inh_ales",10.69521134
+"English","English --> English","noCS","sense","noCS_sense",55,"The traveler inhales the smoke in the forest.",43.27639921,4," the"," the",0.44946337
+"English","English --> English","noCS","sense","noCS_sense",55,"The traveler inhales the smoke in the forest.",43.27639921,5," smoke"," smoke",7.833158
+"English","English --> English","noCS","sense","noCS_sense",55,"The traveler inhales the smoke in the forest.",43.27639921,6," in"," in",4.465138
+"English","English --> English","noCS","sense","noCS_sense",55,"The traveler inhales the smoke in the forest.",43.27639921,7," the"," the",0.5378169
+"English","English --> English","noCS","sense","noCS_sense",55,"The traveler inhales the smoke in the forest.",43.27639921,8," forest"," forest_.",7.9707916
+"English","English --> English","noCS","sense","noCS_sense",59,"A customer drinks the wine in the vineyard.",43.78769003,2," customer"," customer",8.744698
+"English","English --> English","noCS","sense","noCS_sense",59,"A customer drinks the wine in the vineyard.",43.78769003,3," drinks"," drinks",11.670137
+"English","English --> English","noCS","sense","noCS_sense",59,"A customer drinks the wine in the vineyard.",43.78769003,4," the"," the",3.7498772
+"English","English --> English","noCS","sense","noCS_sense",59,"A customer drinks the wine in the vineyard.",43.78769003,5," wine"," wine",4.230787
+"English","English --> English","noCS","sense","noCS_sense",59,"A customer drinks the wine in the vineyard.",43.78769003,6," in"," in",4.3554425
+"English","English --> English","noCS","sense","noCS_sense",59,"A customer drinks the wine in the vineyard.",43.78769003,7," the"," the",0.90036654
+"English","English --> English","noCS","sense","noCS_sense",59,"A customer drinks the wine in the vineyard.",43.78769003,8," vineyard"," vine_yard_.",10.13638179
+"English","English --> English","noCS","sense","noCS_sense",83,"Mr. Lewis dances a waltz in the play.",42.05956802,1,"",".",0.40543127
+"English","English --> English","noCS","sense","noCS_sense",83,"Mr. Lewis dances a waltz in the play.",42.05956802,2," Lewis"," Lewis",6.950833
+"English","English --> English","noCS","sense","noCS_sense",83,"Mr. Lewis dances a waltz in the play.",42.05956802,3," dances"," dances",13.180442
+"English","English --> English","noCS","sense","noCS_sense",83,"Mr. Lewis dances a waltz in the play.",42.05956802,4," a"," a",5.642929
+"English","English --> English","noCS","sense","noCS_sense",83,"Mr. Lewis dances a waltz in the play.",42.05956802,5," waltz"," w_alt_z",3.29159156
+"English","English --> English","noCS","sense","noCS_sense",83,"Mr. Lewis dances a waltz in the play.",42.05956802,6," in"," in",7.721478
+"English","English --> English","noCS","sense","noCS_sense",83,"Mr. Lewis dances a waltz in the play.",42.05956802,7," the"," the",0.41308594
+"English","English --> English","noCS","sense","noCS_sense",83,"Mr. Lewis dances a waltz in the play.",42.05956802,8," play"," play_.",4.4537772
+"English","English --> English","noCS","sense","noCS_sense",87,"A barber pours the dye onto the hair.",49.2016726,2," barber"," bar_ber",13.8695818
+"English","English --> English","noCS","sense","noCS_sense",87,"A barber pours the dye onto the hair.",49.2016726,3," pours"," p_ours",14.722443
+"English","English --> English","noCS","sense","noCS_sense",87,"A barber pours the dye onto the hair.",49.2016726,4," the"," the",3.7567031
+"English","English --> English","noCS","sense","noCS_sense",87,"A barber pours the dye onto the hair.",49.2016726,5," dye"," dye",6.8260756
+"English","English --> English","noCS","sense","noCS_sense",87,"A barber pours the dye onto the hair.",49.2016726,6," onto"," onto",3.7353976
+"English","English --> English","noCS","sense","noCS_sense",87,"A barber pours the dye onto the hair.",49.2016726,7," the"," the",0.769542
+"English","English --> English","noCS","sense","noCS_sense",87,"A barber pours the dye onto the hair.",49.2016726,8," hair"," hair_.",5.5219295
+"English","English --> English","noCS","sense","noCS_sense",91,"Mrs. Díaz chugs the water in her pool.",55.73394245,1,"",".",0.2245159
+"English","English --> English","noCS","sense","noCS_sense",91,"Mrs. Díaz chugs the water in her pool.",55.73394245,2," Díaz"," D_í_az",12.10505555
+"English","English --> English","noCS","sense","noCS_sense",91,"Mrs. Díaz chugs the water in her pool.",55.73394245,3," chugs"," ch_ugs",15.4766175
+"English","English --> English","noCS","sense","noCS_sense",91,"Mrs. Díaz chugs the water in her pool.",55.73394245,4," the"," the",2.0398607
+"English","English --> English","noCS","sense","noCS_sense",91,"Mrs. Díaz chugs the water in her pool.",55.73394245,5," water"," water",3.457219
+"English","English --> English","noCS","sense","noCS_sense",91,"Mrs. Díaz chugs the water in her pool.",55.73394245,6," in"," in",5.538965
+"English","English --> English","noCS","sense","noCS_sense",91,"Mrs. Díaz chugs the water in her pool.",55.73394245,7," her"," her",4.4504924
+"English","English --> English","noCS","sense","noCS_sense",91,"Mrs. Díaz chugs the water in her pool.",55.73394245,8," pool"," pool_.",12.4412164
+"English","English --> English","noCS","sense","noCS_sense",95,"Mr. Ruiz swallows a pill in his bathroom.",48.01869176,1,"",".",0.40539163
+"English","English --> English","noCS","sense","noCS_sense",95,"Mr. Ruiz swallows a pill in his bathroom.",48.01869176,2," Ruiz"," Ru_iz",10.2811697
+"English","English --> English","noCS","sense","noCS_sense",95,"Mr. Ruiz swallows a pill in his bathroom.",48.01869176,3," swallows"," swall_ows",15.06811123
+"English","English --> English","noCS","sense","noCS_sense",95,"Mr. Ruiz swallows a pill in his bathroom.",48.01869176,4," a"," a",1.9476836
+"English","English --> English","noCS","sense","noCS_sense",95,"Mr. Ruiz swallows a pill in his bathroom.",48.01869176,5," pill"," pill",2.4486134
+"English","English --> English","noCS","sense","noCS_sense",95,"Mr. Ruiz swallows a pill in his bathroom.",48.01869176,6," in"," in",6.7577295
+"English","English --> English","noCS","sense","noCS_sense",95,"Mr. Ruiz swallows a pill in his bathroom.",48.01869176,7," his"," his",2.2999861
+"English","English --> English","noCS","sense","noCS_sense",95,"Mr. Ruiz swallows a pill in his bathroom.",48.01869176,8," bathroom"," bathroom_.",8.8100066
+"English","English --> English","noCS","sense","noCS_sense",99,"Ms. Moore reads a magazine during the appointment.",42.2218325,1,"",".",1.5329177
+"English","English --> English","noCS","sense","noCS_sense",99,"Ms. Moore reads a magazine during the appointment.",42.2218325,2," Moore"," Moore",6.689583
+"English","English --> English","noCS","sense","noCS_sense",99,"Ms. Moore reads a magazine during the appointment.",42.2218325,3," reads"," reads",9.87273
+"English","English --> English","noCS","sense","noCS_sense",99,"Ms. Moore reads a magazine during the appointment.",42.2218325,4," a"," a",2.238659
+"English","English --> English","noCS","sense","noCS_sense",99,"Ms. Moore reads a magazine during the appointment.",42.2218325,5," magazine"," magazine",4.7718754
+"English","English --> English","noCS","sense","noCS_sense",99,"Ms. Moore reads a magazine during the appointment.",42.2218325,6," during"," during",5.6118655
+"English","English --> English","noCS","sense","noCS_sense",99,"Ms. Moore reads a magazine during the appointment.",42.2218325,7," the"," the",2.1328824
+"English","English --> English","noCS","sense","noCS_sense",99,"Ms. Moore reads a magazine during the appointment.",42.2218325,8," appointment"," appointment_.",9.3713195
+"English","English --> English","noCS","sense","noCS_sense",120,"A man writes the book in the mountains.",45.3346785,2," man"," man",6.854428
+"English","English --> English","noCS","sense","noCS_sense",120,"A man writes the book in the mountains.",45.3346785,3," writes"," writes",9.239791
+"English","English --> English","noCS","sense","noCS_sense",120,"A man writes the book in the mountains.",45.3346785,4," the"," the",4.1387672
+"English","English --> English","noCS","sense","noCS_sense",120,"A man writes the book in the mountains.",45.3346785,5," book"," book",4.8127346
+"English","English --> English","noCS","sense","noCS_sense",120,"A man writes the book in the mountains.",45.3346785,6," in"," in",5.918842
+"English","English --> English","noCS","sense","noCS_sense",120,"A man writes the book in the mountains.",45.3346785,7," the"," the",2.0559957
+"English","English --> English","noCS","sense","noCS_sense",120,"A man writes the book in the mountains.",45.3346785,8," mountains"," mountains_.",12.31412
+"English","English --> English","noCS","sense","noCS_sense",124,"The boy devours the dinner at the table.",43.38821383,2," boy"," boy",7.7163224
+"English","English --> English","noCS","sense","noCS_sense",124,"The boy devours the dinner at the table.",43.38821383,3," devours"," dev_ours",13.897647
+"English","English --> English","noCS","sense","noCS_sense",124,"The boy devours the dinner at the table.",43.38821383,4," the"," the",0.54512763
+"English","English --> English","noCS","sense","noCS_sense",124,"The boy devours the dinner at the table.",43.38821383,5," dinner"," dinner",6.7074394
+"English","English --> English","noCS","sense","noCS_sense",124,"The boy devours the dinner at the table.",43.38821383,6," at"," at",10.3497715
+"English","English --> English","noCS","sense","noCS_sense",124,"The boy devours the dinner at the table.",43.38821383,7," the"," the",1.2713587
+"English","English --> English","noCS","sense","noCS_sense",124,"The boy devours the dinner at the table.",43.38821383,8," table"," table_.",2.9005472
+"English","English --> English","noCS","sense","noCS_sense",128,"The cat consumes a fish at the pond.",44.7127439,2," cat"," cat",8.765591
+"English","English --> English","noCS","sense","noCS_sense",128,"The cat consumes a fish at the pond.",44.7127439,3," consumes"," consumes",13.082916
+"English","English --> English","noCS","sense","noCS_sense",128,"The cat consumes a fish at the pond.",44.7127439,4," a"," a",2.885695
+"English","English --> English","noCS","sense","noCS_sense",128,"The cat consumes a fish at the pond.",44.7127439,5," fish"," fish",3.5151513
+"English","English --> English","noCS","sense","noCS_sense",128,"The cat consumes a fish at the pond.",44.7127439,6," at"," at",9.644831
+"English","English --> English","noCS","sense","noCS_sense",128,"The cat consumes a fish at the pond.",44.7127439,7," the"," the",1.3152119
+"English","English --> English","noCS","sense","noCS_sense",128,"The cat consumes a fish at the pond.",44.7127439,8," pond"," pond_.",5.5033477
+"English","English --> English","noCS","sense","noCS_sense",132,"The waiter spills a soup on the customer.",34.2512037,2," waiter"," waiter",10.519041
+"English","English --> English","noCS","sense","noCS_sense",132,"The waiter spills a soup on the customer.",34.2512037,3," spills"," spills",9.757675
+"English","English --> English","noCS","sense","noCS_sense",132,"The waiter spills a soup on the customer.",34.2512037,4," a"," a",1.2375389
+"English","English --> English","noCS","sense","noCS_sense",132,"The waiter spills a soup on the customer.",34.2512037,5," soup"," soup",6.6065755
+"English","English --> English","noCS","sense","noCS_sense",132,"The waiter spills a soup on the customer.",34.2512037,6," on"," on",1.0803415
+"English","English --> English","noCS","sense","noCS_sense",132,"The waiter spills a soup on the customer.",34.2512037,7," the"," the",1.124229
+"English","English --> English","noCS","sense","noCS_sense",132,"The waiter spills a soup on the customer.",34.2512037,8," customer"," customer_.",3.9258028
+"English","English --> English","noCS","sense","noCS_sense",136,"The boss sips the juice in the meeting.",46.691723,2," boss"," boss",9.745257
+"English","English --> English","noCS","sense","noCS_sense",136,"The boss sips the juice in the meeting.",46.691723,3," sips"," s_ips",13.046338
+"English","English --> English","noCS","sense","noCS_sense",136,"The boss sips the juice in the meeting.",46.691723,4," the"," the",3.7120523
+"English","English --> English","noCS","sense","noCS_sense",136,"The boss sips the juice in the meeting.",46.691723,5," juice"," juice",5.8779902
+"English","English --> English","noCS","sense","noCS_sense",136,"The boss sips the juice in the meeting.",46.691723,6," in"," in",6.010172
+"English","English --> English","noCS","sense","noCS_sense",136,"The boss sips the juice in the meeting.",46.691723,7," the"," the",1.6142312
+"English","English --> English","noCS","sense","noCS_sense",136,"The boss sips the juice in the meeting.",46.691723,8," meeting"," meeting_.",6.6856823
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",21,"La bombera inhala el language in the factory.",73.26305297,2," bombera"," bomber_a",13.25043207
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",21,"La bombera inhala el language in the factory.",73.26305297,3," inhala"," inh_ala",13.8446017
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",21,"La bombera inhala el language in the factory.",73.26305297,4," el"," el",1.4279066
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",21,"La bombera inhala el language in the factory.",73.26305297,5," language"," language",17.379965
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",21,"La bombera inhala el language in the factory.",73.26305297,6," in"," in",9.345004
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",21,"La bombera inhala el language in the factory.",73.26305297,7," the"," the",2.7044783
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",21,"La bombera inhala el language in the factory.",73.26305297,8," factory"," factory_.",15.3106653
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",22,"Don Thompson hornea la pillow for the party.",74.5564571,2," Thompson"," Thompson",10.194172
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",22,"Don Thompson hornea la pillow for the party.",74.5564571,3," hornea"," hor_nea",22.3041964
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",22,"Don Thompson hornea la pillow for the party.",74.5564571,4," la"," la",5.5939646
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",22,"Don Thompson hornea la pillow for the party.",74.5564571,5," pillow"," pillow",14.989637
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",22,"Don Thompson hornea la pillow for the party.",74.5564571,6," for"," for",8.942436
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",22,"Don Thompson hornea la pillow for the party.",74.5564571,7," the"," the",2.2861843
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",22,"Don Thompson hornea la pillow for the party.",74.5564571,8," party"," party_.",10.2458668
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",26,"Don Wilson canta una turtle in the school.",70.76582948,2," Wilson"," Wilson",9.968011
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",26,"Don Wilson canta una turtle in the school.",70.76582948,3," canta"," c_anta",16.2046323
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",26,"Don Wilson canta una turtle in the school.",70.76582948,4," una"," un_a",3.23080278
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",26,"Don Wilson canta una turtle in the school.",70.76582948,5," turtle"," turtle",18.317635
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",26,"Don Wilson canta una turtle in the school.",70.76582948,6," in"," in",6.243578
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",26,"Don Wilson canta una turtle in the school.",70.76582948,7," the"," the",0.8821659
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",26,"Don Wilson canta una turtle in the school.",70.76582948,8," school"," school_.",15.9190045
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",32,"Doña Gómez pela una spoon on the counter.",74.23647485,1,"ña","ña",10.228872
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",32,"Doña Gómez pela una spoon on the counter.",74.23647485,2," Gómez"," G_ó_me_z",10.9299936
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",32,"Doña Gómez pela una spoon on the counter.",74.23647485,3," pela"," p_ela",17.035755
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",32,"Doña Gómez pela una spoon on the counter.",74.23647485,4," una"," un_a",1.61347349
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",32,"Doña Gómez pela una spoon on the counter.",74.23647485,5," spoon"," spoon",18.964811
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",32,"Doña Gómez pela una spoon on the counter.",74.23647485,6," on"," on",8.6281805
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",32,"Doña Gómez pela una spoon on the counter.",74.23647485,7," the"," the",1.0592577
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",32,"Doña Gómez pela una spoon on the counter.",74.23647485,8," counter"," counter_.",5.7761316
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",36,"Doña García bebe el bank at the gathering.",77.38619676,1,"ña","ña",10.231174
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",36,"Doña García bebe el bank at the gathering.",77.38619676,2," García"," Garc_ía",9.59243036
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",36,"Doña García bebe el bank at the gathering.",77.38619676,3," bebe"," be_be",9.8198491
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",36,"Doña García bebe el bank at the gathering.",77.38619676,4," el"," el",4.316247
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",36,"Doña García bebe el bank at the gathering.",77.38619676,5," bank"," bank",15.672092
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",36,"Doña García bebe el bank at the gathering.",77.38619676,6," at"," at",10.420289
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",36,"Doña García bebe el bank at the gathering.",77.38619676,7," the"," the",3.187769
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",36,"Doña García bebe el bank at the gathering.",77.38619676,8," gathering"," gathering_.",14.1463463
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",62,"Un paciente toma una bed in the office.",63.02970307,2," paciente"," pac_ient_e",11.39155296
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",62,"Un paciente toma una bed in the office.",63.02970307,3," toma"," to_ma",5.692918205
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",62,"Un paciente toma una bed in the office.",63.02970307,4," una"," un_a",2.0224462
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",62,"Un paciente toma una bed in the office.",63.02970307,5," bed"," bed",14.88335
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",62,"Un paciente toma una bed in the office.",63.02970307,6," in"," in",10.548432
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",62,"Un paciente toma una bed in the office.",63.02970307,7," the"," the",2.5703247
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",62,"Un paciente toma una bed in the office.",63.02970307,8," office"," office_.",15.920679
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",66,"Una bibliotecaria lee una frog during the lunch.",66.5797753,1,"na","na",4.9315605
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",66,"Una bibliotecaria lee una frog during the lunch.",66.5797753,2," bibliotecaria"," b_ibli_ot_ec_aria",12.55513196
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",66,"Una bibliotecaria lee una frog during the lunch.",66.5797753,3," lee"," le_e",5.8985131
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",66,"Una bibliotecaria lee una frog during the lunch.",66.5797753,4," una"," un_a",2.96797784
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",66,"Una bibliotecaria lee una frog during the lunch.",66.5797753,5," frog"," frog",17.347918
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",66,"Una bibliotecaria lee una frog during the lunch.",66.5797753,6," during"," during",13.0937
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",66,"Una bibliotecaria lee una frog during the lunch.",66.5797753,7," the"," the",2.2499127
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",66,"Una bibliotecaria lee una frog during the lunch.",66.5797753,8," lunch"," lunch_.",7.5350612
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",70,"Una entrenadora se traga el paper on the field.",76.67608269,0,"na","na",4.932244
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",70,"Una entrenadora se traga el paper on the field.",76.67608269,1," entrenadora"," ent_ren_ad_ora",13.52352739
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",70,"Una entrenadora se traga el paper on the field.",76.67608269,2," se"," se",5.239831
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",70,"Una entrenadora se traga el paper on the field.",76.67608269,3," traga"," tr_aga",14.4973246
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",70,"Una entrenadora se traga el paper on the field.",76.67608269,4," el"," el",2.6931672
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",70,"Una entrenadora se traga el paper on the field.",76.67608269,5," paper"," paper",13.6910515
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",70,"Una entrenadora se traga el paper on the field.",76.67608269,6," on"," on",9.370429
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",70,"Una entrenadora se traga el paper on the field.",76.67608269,7," the"," the",4.968
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",70,"Una entrenadora se traga el paper on the field.",76.67608269,8," field"," field_.",7.760508
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",74,"Un primo baila un cucumber at the wedding.",69.27539073,2," primo"," prim_o",11.28518793
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",74,"Un primo baila un cucumber at the wedding.",69.27539073,3," baila"," bail_a",16.5110033
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",74,"Un primo baila un cucumber at the wedding.",69.27539073,4," un"," un",3.5858955
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",74,"Un primo baila un cucumber at the wedding.",69.27539073,5," cucumber"," cuc_umber",17.4860637
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",74,"Un primo baila un cucumber at the wedding.",69.27539073,6," at"," at",12.41308
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",74,"Un primo baila un cucumber at the wedding.",69.27539073,7," the"," the",0.519545
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",74,"Un primo baila un cucumber at the wedding.",69.27539073,8," wedding"," wedding_.",7.4746153
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",78,"Un químico vierte el horse into the bowl.",66.49707553,2," químico"," qu_í_m_ico",15.25643676
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",78,"Un químico vierte el horse into the bowl.",66.49707553,3," vierte"," v_ier_te",12.66577007
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",78,"Un químico vierte el horse into the bowl.",66.49707553,4," el"," el",4.5096326
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",78,"Un químico vierte el horse into the bowl.",66.49707553,5," horse"," horse",18.339624
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",78,"Un químico vierte el horse into the bowl.",66.49707553,6," into"," into",4.9112134
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",78,"Un químico vierte el horse into the bowl.",66.49707553,7," the"," the",1.049744
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",78,"Un químico vierte el horse into the bowl.",66.49707553,8," bowl"," bowl_.",9.7646547
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",103,"Un dramaturgo escribe un mirror in the basement.",64.95881794,2," dramaturgo"," dram_atur_go",15.16371316
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",103,"Un dramaturgo escribe un mirror in the basement.",64.95881794,3," escribe"," esc_ribe",3.46647328
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",103,"Un dramaturgo escribe un mirror in the basement.",64.95881794,4," un"," un",2.176029
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",103,"Un dramaturgo escribe un mirror in the basement.",64.95881794,5," mirror"," mirror",21.051907
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",103,"Un dramaturgo escribe un mirror in the basement.",64.95881794,6," in"," in",7.7925086
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",103,"Un dramaturgo escribe un mirror in the basement.",64.95881794,7," the"," the",3.2411864
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",103,"Un dramaturgo escribe un mirror in the basement.",64.95881794,8," basement"," basement_.",12.0670005
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",107,"La tía devora la dinner in the kitchen.",54.5461605,2," tía"," t_ía",10.8562786
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",107,"La tía devora la dinner in the kitchen.",54.5461605,3," devora"," dev_ora",13.229685
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",107,"La tía devora la dinner in the kitchen.",54.5461605,4," la"," la",2.7121155
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",107,"La tía devora la dinner in the kitchen.",54.5461605,5," dinner"," dinner",13.829416
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",107,"La tía devora la dinner in the kitchen.",54.5461605,6," in"," in",7.758046
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",107,"La tía devora la dinner in the kitchen.",54.5461605,7," the"," the",1.4076159
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",107,"La tía devora la dinner in the kitchen.",54.5461605,8," kitchen"," kitchen_.",4.7530035
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",111,"El niño derrama una race on the table.",57.67012474,2," niño"," ni_ño",10.04531214
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",111,"El niño derrama una race on the table.",57.67012474,3," derrama"," der_rama",11.0517475
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",111,"El niño derrama una race on the table.",57.67012474,4," una"," un_a",3.0967879
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",111,"El niño derrama una race on the table.",57.67012474,5," race"," race",16.913498
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",111,"El niño derrama una race on the table.",57.67012474,6," on"," on",9.2333145
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",111,"El niño derrama una race on the table.",57.67012474,7," the"," the",1.1657283
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",111,"El niño derrama una race on the table.",57.67012474,8," table"," table_.",6.1637364
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",115,"El zorro consume un background at the puddle.",72.1477184,2," zorro"," z_or_ro",11.2804095
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",115,"El zorro consume un background at the puddle.",72.1477184,3," consume"," consume",13.29124
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",115,"El zorro consume un background at the puddle.",72.1477184,4," un"," un",3.0794063
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",115,"El zorro consume un background at the puddle.",72.1477184,5," background"," background",16.250566
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",115,"El zorro consume un background at the puddle.",72.1477184,6," at"," at",9.258104
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",115,"El zorro consume un background at the puddle.",72.1477184,7," the"," the",4.0204945
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",115,"El zorro consume un background at the puddle.",72.1477184,8," puddle"," p_uddle_.",14.9674981
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",119,"El limpiador sorbe el chess in the store.",66.85537691,2," limpiador"," lim_pi_ador",14.80637245
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",119,"El limpiador sorbe el chess in the store.",66.85537691,3," sorbe"," sor_be",15.935207
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",119,"El limpiador sorbe el chess in the store.",66.85537691,4," el"," el",2.1627474
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",119,"El limpiador sorbe el chess in the store.",66.85537691,5," chess"," chess",14.685979
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",119,"El limpiador sorbe el chess in the store.",66.85537691,6," in"," in",8.428787
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",119,"El limpiador sorbe el chess in the store.",66.85537691,7," the"," the",4.190496
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",119,"El limpiador sorbe el chess in the store.",66.85537691,8," store"," store_.",6.64578806
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",141,"El sobrino mastica el elevator in his house.",72.2234915,2," sobrino"," so_br_ino",13.3258203
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",141,"El sobrino mastica el elevator in his house.",72.2234915,3," mastica"," m_astic_a",18.2440042
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",141,"El sobrino mastica el elevator in his house.",72.2234915,4," el"," el",2.217555
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",141,"El sobrino mastica el elevator in his house.",72.2234915,5," elevator"," elevator",15.678855
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",141,"El sobrino mastica el elevator in his house.",72.2234915,6," in"," in",10.244059
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",141,"El sobrino mastica el elevator in his house.",72.2234915,7," his"," his",5.324898
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",141,"El sobrino mastica el elevator in his house.",72.2234915,8," house"," house_.",7.1883
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",145,"El enfermero come el essay in the lobby.",67.59870659,2," enfermero"," en_fer_mer_o",14.14147739
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",145,"El enfermero come el essay in the lobby.",67.59870659,3," come"," come",7.489692
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",145,"El enfermero come el essay in the lobby.",67.59870659,4," el"," el",4.3580384
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",145,"El enfermero come el essay in the lobby.",67.59870659,5," essay"," essay",14.570753
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",145,"El enfermero come el essay in the lobby.",67.59870659,6," in"," in",9.506471
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",145,"El enfermero come el essay in the lobby.",67.59870659,7," the"," the",5.0256615
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",145,"El enfermero come el essay in the lobby.",67.59870659,8," lobby"," lobby_.",12.5066133
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",149,"Una guía fríe la cloud in the pot.",81.5211274,1,"na","na",4.9315605
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",149,"Una guía fríe la cloud in the pot.",81.5211274,2," guía"," gu_ía",8.0176977
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",149,"Una guía fríe la cloud in the pot.",81.5211274,3," fríe"," fr_í_e",22.0356136
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",149,"Una guía fríe la cloud in the pot.",81.5211274,4," la"," la",4.789732
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",149,"Una guía fríe la cloud in the pot.",81.5211274,5," cloud"," cloud",14.809425
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",149,"Una guía fríe la cloud in the pot.",81.5211274,6," in"," in",8.230335
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",149,"Una guía fríe la cloud in the pot.",81.5211274,7," the"," the",5.122861
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",149,"Una guía fríe la cloud in the pot.",81.5211274,8," pot"," pot_.",13.5839026
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",153,"El tío cocina un bridge with the beans.",69.4404352,2," tío"," t_í_o",12.2862519
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",153,"El tío cocina un bridge with the beans.",69.4404352,3," cocina"," coc_ina",11.8567677
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",153,"El tío cocina un bridge with the beans.",69.4404352,4," un"," un",4.4115973
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",153,"El tío cocina un bridge with the beans.",69.4404352,5," bridge"," bridge",16.3755
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",153,"El tío cocina un bridge with the beans.",69.4404352,6," with"," with",11.146285
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",153,"El tío cocina un bridge with the beans.",69.4404352,7," the"," the",2.8002155
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",153,"El tío cocina un bridge with the beans.",69.4404352,8," beans"," beans_.",10.5638178
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",157,"Un empresario vuela el boat over the state.",76.70500839,2," empresario"," em_pres_ario",14.23307019
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",157,"Un empresario vuela el boat over the state.",76.70500839,3," vuela"," v_uel_a",15.6077117
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",157,"Un empresario vuela el boat over the state.",76.70500839,4," el"," el",5.6549873
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",157,"Un empresario vuela el boat over the state.",76.70500839,5," boat"," boat",15.121219
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",157,"Un empresario vuela el boat over the state.",76.70500839,6," over"," over",10.514976
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",157,"Un empresario vuela el boat over the state.",76.70500839,7," the"," the",1.1544852
+"Spanish","Spanish --> English","CS","nonsense","CS_nonsense",157,"Un empresario vuela el boat over the state.",76.70500839,8," state"," state_.",14.418559
+"Spanish","Spanish --> English","CS","sense","CS_sense",23,"Un padrino vuela el plane over the city.",61.94529279,2," padrino"," pad_r_ino",13.58289609
+"Spanish","Spanish --> English","CS","sense","CS_sense",23,"Un padrino vuela el plane over the city.",61.94529279,3," vuela"," v_uel_a",13.7905126
+"Spanish","Spanish --> English","CS","sense","CS_sense",23,"Un padrino vuela el plane over the city.",61.94529279,4," el"," el",4.820731
+"Spanish","Spanish --> English","CS","sense","CS_sense",23,"Un padrino vuela el plane over the city.",61.94529279,5," plane"," plane",9.039573
+"Spanish","Spanish --> English","CS","sense","CS_sense",23,"Un padrino vuela el plane over the city.",61.94529279,6," over"," over",12.739905
+"Spanish","Spanish --> English","CS","sense","CS_sense",23,"Un padrino vuela el plane over the city.",61.94529279,7," the"," the",0.8284061
+"Spanish","Spanish --> English","CS","sense","CS_sense",23,"Un padrino vuela el plane over the city.",61.94529279,8," city"," city_.",7.143269
+"Spanish","Spanish --> English","CS","sense","CS_sense",27,"El caminante cocina un chicken on the fire.",68.8341285,2," caminante"," c_amin_ante",12.6703208
+"Spanish","Spanish --> English","CS","sense","CS_sense",27,"El caminante cocina un chicken on the fire.",68.8341285,3," cocina"," coc_ina",16.755376
+"Spanish","Spanish --> English","CS","sense","CS_sense",27,"El caminante cocina un chicken on the fire.",68.8341285,4," un"," un",4.310469
+"Spanish","Spanish --> English","CS","sense","CS_sense",27,"El caminante cocina un chicken on the fire.",68.8341285,5," chicken"," chicken",13.949586
+"Spanish","Spanish --> English","CS","sense","CS_sense",27,"El caminante cocina un chicken on the fire.",68.8341285,6," on"," on",9.955357
+"Spanish","Spanish --> English","CS","sense","CS_sense",27,"El caminante cocina un chicken on the fire.",68.8341285,7," the"," the",1.13071
+"Spanish","Spanish --> English","CS","sense","CS_sense",27,"El caminante cocina un chicken on the fire.",68.8341285,8," fire"," fire_.",10.0623097
+"Spanish","Spanish --> English","CS","sense","CS_sense",29,"La trabajadora mastica el gum in the building.",62.49306239,2," trabajadora"," tr_ab_aj_ad_ora",11.4266926
+"Spanish","Spanish --> English","CS","sense","CS_sense",29,"La trabajadora mastica el gum in the building.",62.49306239,3," mastica"," m_astic_a",15.4872718
+"Spanish","Spanish --> English","CS","sense","CS_sense",29,"La trabajadora mastica el gum in the building.",62.49306239,4," el"," el",2.4563472
+"Spanish","Spanish --> English","CS","sense","CS_sense",29,"La trabajadora mastica el gum in the building.",62.49306239,5," gum"," gum",4.356952
+"Spanish","Spanish --> English","CS","sense","CS_sense",29,"La trabajadora mastica el gum in the building.",62.49306239,6," in"," in",8.871969
+"Spanish","Spanish --> English","CS","sense","CS_sense",29,"La trabajadora mastica el gum in the building.",62.49306239,7," the"," the",5.4686418
+"Spanish","Spanish --> English","CS","sense","CS_sense",29,"La trabajadora mastica el gum in the building.",62.49306239,8," building"," building_.",14.425188
+"Spanish","Spanish --> English","CS","sense","CS_sense",33,"El sacerdote come el avocado in the church.",53.23298131,2," sacerdote"," sac_erd_ote",8.954164908
+"Spanish","Spanish --> English","CS","sense","CS_sense",33,"El sacerdote come el avocado in the church.",53.23298131,3," come"," come",9.614936
+"Spanish","Spanish --> English","CS","sense","CS_sense",33,"El sacerdote come el avocado in the church.",53.23298131,4," el"," el",2.561389
+"Spanish","Spanish --> English","CS","sense","CS_sense",33,"El sacerdote come el avocado in the church.",53.23298131,5," avocado"," avocado",11.6447
+"Spanish","Spanish --> English","CS","sense","CS_sense",33,"El sacerdote come el avocado in the church.",53.23298131,6," in"," in",11.216397
+"Spanish","Spanish --> English","CS","sense","CS_sense",33,"El sacerdote come el avocado in the church.",53.23298131,7," the"," the",4.571188
+"Spanish","Spanish --> English","CS","sense","CS_sense",33,"El sacerdote come el avocado in the church.",53.23298131,8," church"," church_.",4.6702064
+"Spanish","Spanish --> English","CS","sense","CS_sense",37,"Un carnicero fríe la meat with the pepper.",69.75724054,2," carnicero"," car_nic_ero",18.66686292
+"Spanish","Spanish --> English","CS","sense","CS_sense",37,"Un carnicero fríe la meat with the pepper.",69.75724054,3," fríe"," fr_í_e",11.04881632
+"Spanish","Spanish --> English","CS","sense","CS_sense",37,"Un carnicero fríe la meat with the pepper.",69.75724054,4," la"," la",3.0372543
+"Spanish","Spanish --> English","CS","sense","CS_sense",37,"Un carnicero fríe la meat with the pepper.",69.75724054,5," meat"," meat",12.969483
+"Spanish","Spanish --> English","CS","sense","CS_sense",37,"Un carnicero fríe la meat with the pepper.",69.75724054,6," with"," with",8.887111
+"Spanish","Spanish --> English","CS","sense","CS_sense",37,"Un carnicero fríe la meat with the pepper.",69.75724054,7," the"," the",4.036754
+"Spanish","Spanish --> English","CS","sense","CS_sense",37,"Un carnicero fríe la meat with the pepper.",69.75724054,8," pepper"," pepper_.",11.110959
+"Spanish","Spanish --> English","CS","sense","CS_sense",61,"Doña Jones inhala el smoke at the campsite.",70.74864757,1,"ña","ña",10.231174
+"Spanish","Spanish --> English","CS","sense","CS_sense",61,"Doña Jones inhala el smoke at the campsite.",70.74864757,2," Jones"," Jones",11.14102
+"Spanish","Spanish --> English","CS","sense","CS_sense",61,"Doña Jones inhala el smoke at the campsite.",70.74864757,3," inhala"," inh_ala",13.1453289
+"Spanish","Spanish --> English","CS","sense","CS_sense",61,"Doña Jones inhala el smoke at the campsite.",70.74864757,4," el"," el",2.1103883
+"Spanish","Spanish --> English","CS","sense","CS_sense",61,"Doña Jones inhala el smoke at the campsite.",70.74864757,5," smoke"," smoke",9.682323
+"Spanish","Spanish --> English","CS","sense","CS_sense",61,"Doña Jones inhala el smoke at the campsite.",70.74864757,6," at"," at",10.560879
+"Spanish","Spanish --> English","CS","sense","CS_sense",61,"Doña Jones inhala el smoke at the campsite.",70.74864757,7," the"," the",0.85732776
+"Spanish","Spanish --> English","CS","sense","CS_sense",61,"Doña Jones inhala el smoke at the campsite.",70.74864757,8," campsite"," camps_ite_.",13.02020661
+"Spanish","Spanish --> English","CS","sense","CS_sense",65,"La anfitriona hornea el turkey in the afternoon.",57.29136631,2," anfitriona"," an_fit_r_iona",12.04665821
+"Spanish","Spanish --> English","CS","sense","CS_sense",65,"La anfitriona hornea el turkey in the afternoon.",57.29136631,3," hornea"," hor_nea",14.5359005
+"Spanish","Spanish --> English","CS","sense","CS_sense",65,"La anfitriona hornea el turkey in the afternoon.",57.29136631,4," el"," el",2.7169333
+"Spanish","Spanish --> English","CS","sense","CS_sense",65,"La anfitriona hornea el turkey in the afternoon.",57.29136631,5," turkey"," turkey",12.309323
+"Spanish","Spanish --> English","CS","sense","CS_sense",65,"La anfitriona hornea el turkey in the afternoon.",57.29136631,6," in"," in",7.299699
+"Spanish","Spanish --> English","CS","sense","CS_sense",65,"La anfitriona hornea el turkey in the afternoon.",57.29136631,7," the"," the",1.2090288
+"Spanish","Spanish --> English","CS","sense","CS_sense",65,"La anfitriona hornea el turkey in the afternoon.",57.29136631,8," afternoon"," afternoon_.",7.1738235
+"Spanish","Spanish --> English","CS","sense","CS_sense",69,"Una médica bebe el wine at the reception.",67.98391429,1,"na","na",4.9322767
+"Spanish","Spanish --> English","CS","sense","CS_sense",69,"Una médica bebe el wine at the reception.",67.98391429,2," médica"," m_é_d_ica",12.37947109
+"Spanish","Spanish --> English","CS","sense","CS_sense",69,"Una médica bebe el wine at the reception.",67.98391429,3," bebe"," be_be",11.4309252
+"Spanish","Spanish --> English","CS","sense","CS_sense",69,"Una médica bebe el wine at the reception.",67.98391429,4," el"," el",4.6711073
+"Spanish","Spanish --> English","CS","sense","CS_sense",69,"Una médica bebe el wine at the reception.",67.98391429,5," wine"," wine",12.484684
+"Spanish","Spanish --> English","CS","sense","CS_sense",69,"Una médica bebe el wine at the reception.",67.98391429,6," at"," at",9.268448
+"Spanish","Spanish --> English","CS","sense","CS_sense",69,"Una médica bebe el wine at the reception.",67.98391429,7," the"," the",2.587997
+"Spanish","Spanish --> English","CS","sense","CS_sense",69,"Una médica bebe el wine at the reception.",67.98391429,8," reception"," reception_.",10.229005
+"Spanish","Spanish --> English","CS","sense","CS_sense",73,"Un abuelo canta una tune in his garden.",57.87968923,2," abuelo"," ab_uel_o",12.50996931
+"Spanish","Spanish --> English","CS","sense","CS_sense",73,"Un abuelo canta una tune in his garden.",57.87968923,3," canta"," c_anta",9.0468903
+"Spanish","Spanish --> English","CS","sense","CS_sense",73,"Un abuelo canta una tune in his garden.",57.87968923,4," una"," un_a",2.084861517
+"Spanish","Spanish --> English","CS","sense","CS_sense",73,"Un abuelo canta una tune in his garden.",57.87968923,5," tune"," tune",16.195766
+"Spanish","Spanish --> English","CS","sense","CS_sense",73,"Un abuelo canta una tune in his garden.",57.87968923,6," in"," in",7.855896
+"Spanish","Spanish --> English","CS","sense","CS_sense",73,"Un abuelo canta una tune in his garden.",57.87968923,7," his"," his",3.9335446
+"Spanish","Spanish --> English","CS","sense","CS_sense",73,"Un abuelo canta una tune in his garden.",57.87968923,8," garden"," garden_.",6.2527615
+"Spanish","Spanish --> English","CS","sense","CS_sense",77,"La sobrina pela una carrot in the sink.",71.81354573,2," sobrina"," so_br_ina",12.5438913
+"Spanish","Spanish --> English","CS","sense","CS_sense",77,"La sobrina pela una carrot in the sink.",71.81354573,3," pela"," p_ela",17.2363685
+"Spanish","Spanish --> English","CS","sense","CS_sense",77,"La sobrina pela una carrot in the sink.",71.81354573,4," una"," un_a",4.29345973
+"Spanish","Spanish --> English","CS","sense","CS_sense",77,"La sobrina pela una carrot in the sink.",71.81354573,5," carrot"," carrot",16.330854
+"Spanish","Spanish --> English","CS","sense","CS_sense",77,"La sobrina pela una carrot in the sink.",71.81354573,6," in"," in",9.661897
+"Spanish","Spanish --> English","CS","sense","CS_sense",77,"La sobrina pela una carrot in the sink.",71.81354573,7," the"," the",1.9349602
+"Spanish","Spanish --> English","CS","sense","CS_sense",77,"La sobrina pela una carrot in the sink.",71.81354573,8," sink"," sink_.",9.812115
+"Spanish","Spanish --> English","CS","sense","CS_sense",101,"Una prima vierte el dye onto the blanket.",70.4630596,1,"na","na",4.9322767
+"Spanish","Spanish --> English","CS","sense","CS_sense",101,"Una prima vierte el dye onto the blanket.",70.4630596,2," prima"," prim_a",8.8987815
+"Spanish","Spanish --> English","CS","sense","CS_sense",101,"Una prima vierte el dye onto the blanket.",70.4630596,3," vierte"," v_ier_te",19.8717143
+"Spanish","Spanish --> English","CS","sense","CS_sense",101,"Una prima vierte el dye onto the blanket.",70.4630596,4," el"," el",1.6727118
+"Spanish","Spanish --> English","CS","sense","CS_sense",101,"Una prima vierte el dye onto the blanket.",70.4630596,5," dye"," dye",12.045797
+"Spanish","Spanish --> English","CS","sense","CS_sense",101,"Una prima vierte el dye onto the blanket.",70.4630596,6," onto"," onto",8.683071
+"Spanish","Spanish --> English","CS","sense","CS_sense",101,"Una prima vierte el dye onto the blanket.",70.4630596,7," the"," the",2.0117743
+"Spanish","Spanish --> English","CS","sense","CS_sense",101,"Una prima vierte el dye onto the blanket.",70.4630596,8," blanket"," blanket_.",12.346933
+"Spanish","Spanish --> English","CS","sense","CS_sense",105,"Un invitado baila un waltz at the party.",51.00285673,2," invitado"," inv_it_ado",11.97416654
+"Spanish","Spanish --> English","CS","sense","CS_sense",105,"Un invitado baila un waltz at the party.",51.00285673,3," baila"," bail_a",10.7475934
+"Spanish","Spanish --> English","CS","sense","CS_sense",105,"Un invitado baila un waltz at the party.",51.00285673,4," un"," un",2.5857818
+"Spanish","Spanish --> English","CS","sense","CS_sense",105,"Un invitado baila un waltz at the party.",51.00285673,5," waltz"," w_alt_z",6.152233093
+"Spanish","Spanish --> English","CS","sense","CS_sense",105,"Un invitado baila un waltz at the party.",51.00285673,6," at"," at",11.492383
+"Spanish","Spanish --> English","CS","sense","CS_sense",105,"Un invitado baila un waltz at the party.",51.00285673,7," the"," the",3.2929304
+"Spanish","Spanish --> English","CS","sense","CS_sense",105,"Un invitado baila un waltz at the party.",51.00285673,8," party"," party_.",4.7577685
+"Spanish","Spanish --> English","CS","sense","CS_sense",109,"Un vendedor toma una pill on the road.",52.4776478,2," vendedor"," v_ended_or",11.3686024
+"Spanish","Spanish --> English","CS","sense","CS_sense",109,"Un vendedor toma una pill on the road.",52.4776478,3," toma"," to_ma",7.2400056
+"Spanish","Spanish --> English","CS","sense","CS_sense",109,"Un vendedor toma una pill on the road.",52.4776478,4," una"," un_a",2.0907673
+"Spanish","Spanish --> English","CS","sense","CS_sense",109,"Un vendedor toma una pill on the road.",52.4776478,5," pill"," pill",13.917895
+"Spanish","Spanish --> English","CS","sense","CS_sense",109,"Un vendedor toma una pill on the road.",52.4776478,6," on"," on",7.6411858
+"Spanish","Spanish --> English","CS","sense","CS_sense",109,"Un vendedor toma una pill on the road.",52.4776478,7," the"," the",2.8076742
+"Spanish","Spanish --> English","CS","sense","CS_sense",109,"Un vendedor toma una pill on the road.",52.4776478,8," road"," road_.",7.4115175
+"Spanish","Spanish --> English","CS","sense","CS_sense",113,"Una niña lee una magazine during the class.",57.32562971,1,"na","na",4.9322767
+"Spanish","Spanish --> English","CS","sense","CS_sense",113,"Una niña lee una magazine during the class.",57.32562971,2," niña"," ni_ña",9.15906871
+"Spanish","Spanish --> English","CS","sense","CS_sense",113,"Una niña lee una magazine during the class.",57.32562971,3," lee"," le_e",7.33951
+"Spanish","Spanish --> English","CS","sense","CS_sense",113,"Una niña lee una magazine during the class.",57.32562971,4," una"," un_a",3.453979
+"Spanish","Spanish --> English","CS","sense","CS_sense",113,"Una niña lee una magazine during the class.",57.32562971,5," magazine"," magazine",10.630809
+"Spanish","Spanish --> English","CS","sense","CS_sense",113,"Una niña lee una magazine during the class.",57.32562971,6," during"," during",14.336518
+"Spanish","Spanish --> English","CS","sense","CS_sense",113,"Una niña lee una magazine during the class.",57.32562971,7," the"," the",1.6327941
+"Spanish","Spanish --> English","CS","sense","CS_sense",113,"Una niña lee una magazine during the class.",57.32562971,8," class"," class_.",5.8406742
+"Spanish","Spanish --> English","CS","sense","CS_sense",117,"Una corredora se traga el water on the track.",67.03493024,0,"na","na",4.9324765
+"Spanish","Spanish --> English","CS","sense","CS_sense",117,"Una corredora se traga el water on the track.",67.03493024,1," corredora"," cor_red_ora",12.80183424
+"Spanish","Spanish --> English","CS","sense","CS_sense",117,"Una corredora se traga el water on the track.",67.03493024,2," se"," se",3.8828976
+"Spanish","Spanish --> English","CS","sense","CS_sense",117,"Una corredora se traga el water on the track.",67.03493024,3," traga"," tr_aga",12.900274
+"Spanish","Spanish --> English","CS","sense","CS_sense",117,"Una corredora se traga el water on the track.",67.03493024,4," el"," el",2.796528
+"Spanish","Spanish --> English","CS","sense","CS_sense",117,"Una corredora se traga el water on the track.",67.03493024,5," water"," water",11.032362
+"Spanish","Spanish --> English","CS","sense","CS_sense",117,"Una corredora se traga el water on the track.",67.03493024,6," on"," on",10.110416
+"Spanish","Spanish --> English","CS","sense","CS_sense",117,"Una corredora se traga el water on the track.",67.03493024,7," the"," the",1.6461079
+"Spanish","Spanish --> English","CS","sense","CS_sense",117,"Una corredora se traga el water on the track.",67.03493024,8," track"," track_.",6.932034
+"Spanish","Spanish --> English","CS","sense","CS_sense",143,"Doña Torres sorbe el juice in the lounge.",76.1800819,1,"ña","ña",10.228872
+"Spanish","Spanish --> English","CS","sense","CS_sense",143,"Doña Torres sorbe el juice in the lounge.",76.1800819,2," Torres"," Torres",11.214356
+"Spanish","Spanish --> English","CS","sense","CS_sense",143,"Doña Torres sorbe el juice in the lounge.",76.1800819,3," sorbe"," sor_be",14.5870956
+"Spanish","Spanish --> English","CS","sense","CS_sense",143,"Doña Torres sorbe el juice in the lounge.",76.1800819,4," el"," el",1.4055811
+"Spanish","Spanish --> English","CS","sense","CS_sense",143,"Doña Torres sorbe el juice in the lounge.",76.1800819,5," juice"," juice",14.114358
+"Spanish","Spanish --> English","CS","sense","CS_sense",143,"Doña Torres sorbe el juice in the lounge.",76.1800819,6," in"," in",8.963882
+"Spanish","Spanish --> English","CS","sense","CS_sense",143,"Doña Torres sorbe el juice in the lounge.",76.1800819,7," the"," the",4.174449
+"Spanish","Spanish --> English","CS","sense","CS_sense",143,"Doña Torres sorbe el juice in the lounge.",76.1800819,8," lounge"," lounge_.",11.4914882
+"Spanish","Spanish --> English","CS","sense","CS_sense",147,"Don Smith devora la dinner at his desk.",68.8399335,2," Smith"," Smith",8.4011345
+"Spanish","Spanish --> English","CS","sense","CS_sense",147,"Don Smith devora la dinner at his desk.",68.8399335,3," devora"," dev_ora",22.079235
+"Spanish","Spanish --> English","CS","sense","CS_sense",147,"Don Smith devora la dinner at his desk.",68.8399335,4," la"," la",2.643729
+"Spanish","Spanish --> English","CS","sense","CS_sense",147,"Don Smith devora la dinner at his desk.",68.8399335,5," dinner"," dinner",14.025465
+"Spanish","Spanish --> English","CS","sense","CS_sense",147,"Don Smith devora la dinner at his desk.",68.8399335,6," at"," at",9.402273
+"Spanish","Spanish --> English","CS","sense","CS_sense",147,"Don Smith devora la dinner at his desk.",68.8399335,7," his"," his",3.619665
+"Spanish","Spanish --> English","CS","sense","CS_sense",147,"Don Smith devora la dinner at his desk.",68.8399335,8," desk"," desk_.",8.668432
+"Spanish","Spanish --> English","CS","sense","CS_sense",151,"Don Ortiz escribe el book in the library.",64.4572114,2," Ortiz"," Ortiz",11.808861
+"Spanish","Spanish --> English","CS","sense","CS_sense",151,"Don Ortiz escribe el book in the library.",64.4572114,3," escribe"," esc_ribe",14.939264
+"Spanish","Spanish --> English","CS","sense","CS_sense",151,"Don Ortiz escribe el book in the library.",64.4572114,4," el"," el",3.4895978
+"Spanish","Spanish --> English","CS","sense","CS_sense",151,"Don Ortiz escribe el book in the library.",64.4572114,5," book"," book",10.869422
+"Spanish","Spanish --> English","CS","sense","CS_sense",151,"Don Ortiz escribe el book in the library.",64.4572114,6," in"," in",8.488039
+"Spanish","Spanish --> English","CS","sense","CS_sense",151,"Don Ortiz escribe el book in the library.",64.4572114,7," the"," the",2.1131446
+"Spanish","Spanish --> English","CS","sense","CS_sense",151,"Don Ortiz escribe el book in the library.",64.4572114,8," library"," library_.",12.748883
+"Spanish","Spanish --> English","CS","sense","CS_sense",155,"El esposo derrama una soup on the counter.",65.96524538,2," esposo"," es_pos_o",15.48494347
+"Spanish","Spanish --> English","CS","sense","CS_sense",155,"El esposo derrama una soup on the counter.",65.96524538,3," derrama"," der_rama",11.9866505
+"Spanish","Spanish --> English","CS","sense","CS_sense",155,"El esposo derrama una soup on the counter.",65.96524538,4," una"," un_a",4.39814535
+"Spanish","Spanish --> English","CS","sense","CS_sense",155,"El esposo derrama una soup on the counter.",65.96524538,5," soup"," soup",15.52236
+"Spanish","Spanish --> English","CS","sense","CS_sense",155,"El esposo derrama una soup on the counter.",65.96524538,6," on"," on",7.596403
+"Spanish","Spanish --> English","CS","sense","CS_sense",155,"El esposo derrama una soup on the counter.",65.96524538,7," the"," the",0.94070756
+"Spanish","Spanish --> English","CS","sense","CS_sense",155,"El esposo derrama una soup on the counter.",65.96524538,8," counter"," counter_.",10.0360355
+"Spanish","Spanish --> English","CS","sense","CS_sense",159,"El mapache consume un fish in the stream.",65.2052156,2," mapache"," map_ache",15.331376
+"Spanish","Spanish --> English","CS","sense","CS_sense",159,"El mapache consume un fish in the stream.",65.2052156,3," consume"," consume",10.004204
+"Spanish","Spanish --> English","CS","sense","CS_sense",159,"El mapache consume un fish in the stream.",65.2052156,4," un"," un",2.1965575
+"Spanish","Spanish --> English","CS","sense","CS_sense",159,"El mapache consume un fish in the stream.",65.2052156,5," fish"," fish",18.810822
+"Spanish","Spanish --> English","CS","sense","CS_sense",159,"El mapache consume un fish in the stream.",65.2052156,6," in"," in",5.9682145
+"Spanish","Spanish --> English","CS","sense","CS_sense",159,"El mapache consume un fish in the stream.",65.2052156,7," the"," the",2.3197718
+"Spanish","Spanish --> English","CS","sense","CS_sense",159,"El mapache consume un fish in the stream.",65.2052156,8," stream"," stream_.",10.5742698
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",20,"La empleada sorbe el ajedrez en la mañana.",58.85196926,2," empleada"," em_ple_ada",11.25994215
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",20,"La empleada sorbe el ajedrez en la mañana.",58.85196926,3," sorbe"," sor_be",19.523184
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",20,"La empleada sorbe el ajedrez en la mañana.",58.85196926,4," el"," el",1.1845876
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",20,"La empleada sorbe el ajedrez en la mañana.",58.85196926,5," ajedrez"," a_j_ed_rez",14.02319826
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",20,"La empleada sorbe el ajedrez en la mañana.",58.85196926,6," en"," en",5.447201
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",20,"La empleada sorbe el ajedrez en la mañana.",58.85196926,7," la"," la",0.73162407
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",20,"La empleada sorbe el ajedrez en la mañana.",58.85196926,8," mañana"," ma_ñ_ana_.",6.682232189
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",25,"El cantante derrama una carrera en su piso.",57.28140628,2," cantante"," cant_ante",10.85078
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",25,"El cantante derrama una carrera en su piso.",57.28140628,3," derrama"," der_rama",13.6164552
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",25,"El cantante derrama una carrera en su piso.",57.28140628,4," una"," un_a",2.31903298
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",25,"El cantante derrama una carrera en su piso.",57.28140628,5," carrera"," car_rera",11.5596972
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",25,"El cantante derrama una carrera en su piso.",57.28140628,6," en"," en",4.5727096
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",25,"El cantante derrama una carrera en su piso.",57.28140628,7," su"," su",3.4080582
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",25,"El cantante derrama una carrera en su piso.",57.28140628,8," piso"," p_iso_.",10.9546731
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",31,"Un hermano escribe el espejo en su habitación.",54.39101421,2," hermano"," her_man_o",12.13449609
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",31,"Un hermano escribe el espejo en su habitación.",54.39101421,3," escribe"," esc_ribe",12.7921236
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",31,"Un hermano escribe el espejo en su habitación.",54.39101421,4," el"," el",3.7101784
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",31,"Un hermano escribe el espejo en su habitación.",54.39101421,5," espejo"," es_pe_jo",12.5212806
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",31,"Un hermano escribe el espejo en su habitación.",54.39101421,6," en"," en",5.2711415
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",31,"Un hermano escribe el espejo en su habitación.",54.39101421,7," su"," su",2.9852035
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",31,"Un hermano escribe el espejo en su habitación.",54.39101421,8," habitación"," habit_aci_ón_.",4.976590517
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",35,"El abogado devora la playa en la silla.",56.93346981,2," abogado"," ab_og_ado",10.14695524
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",35,"El abogado devora la playa en la silla.",56.93346981,3," devora"," dev_ora",15.6743676
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",35,"El abogado devora la playa en la silla.",56.93346981,4," la"," la",4.65022
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",35,"El abogado devora la playa en la silla.",56.93346981,5," playa"," play_a",8.703419072
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",35,"El abogado devora la playa en la silla.",56.93346981,6," en"," en",6.0228357
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",35,"El abogado devora la playa en la silla.",56.93346981,7," la"," la",1.2998849
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",35,"El abogado devora la playa en la silla.",56.93346981,8," silla"," s_illa_.",10.4357873
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",39,"El halcón consume un fondo en el río.",59.20833681,2," halcón"," hal_c_ón",12.81003259
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",39,"El halcón consume un fondo en el río.",59.20833681,3," consume"," consume",15.580641
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",39,"El halcón consume un fondo en el río.",59.20833681,4," un"," un",3.0284574
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",39,"El halcón consume un fondo en el río.",59.20833681,5," fondo"," fond_o",13.4302125
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",39,"El halcón consume un fondo en el río.",59.20833681,6," en"," en",4.71068
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",39,"El halcón consume un fondo en el río.",59.20833681,7," el"," el",1.5665181
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",39,"El halcón consume un fondo en el río.",59.20833681,8," río"," r_í_o_.",8.081795224
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",60,"Doña Harris cocina el puente en la sartén.",66.38514298,1,"ña","ña",10.231174
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",60,"Doña Harris cocina el puente en la sartén.",66.38514298,2," Harris"," Harris",12.819777
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",60,"Doña Harris cocina el puente en la sartén.",66.38514298,3," cocina"," coc_ina",13.66309705
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",60,"Doña Harris cocina el puente en la sartén.",66.38514298,4," el"," el",4.629952
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",60,"Doña Harris cocina el puente en la sartén.",66.38514298,5," puente"," pu_ente",10.6483154
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",60,"Doña Harris cocina el puente en la sartén.",66.38514298,6," en"," en",5.4424453
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",60,"Doña Harris cocina el puente en la sartén.",66.38514298,7," la"," la",1.2345235
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",60,"Doña Harris cocina el puente en la sartén.",66.38514298,8," sartén"," s_art_én_.",7.715858731
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",64,"Doña López vuela el barco en la tarde.",65.50657645,1,"ña","ña",10.231174
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",64,"Doña López vuela el barco en la tarde.",65.50657645,2," López"," L_ó_pez",11.61968703
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",64,"Doña López vuela el barco en la tarde.",65.50657645,3," vuela"," v_uel_a",15.4040608
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",64,"Doña López vuela el barco en la tarde.",65.50657645,4," el"," el",5.2612934
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",64,"Doña López vuela el barco en la tarde.",65.50657645,5," barco"," bar_co",8.9693204
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",64,"Doña López vuela el barco en la tarde.",65.50657645,6," en"," en",6.5040374
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",64,"Doña López vuela el barco en la tarde.",65.50657645,7," la"," la",1.2090892
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",64,"Doña López vuela el barco en la tarde.",65.50657645,8," tarde"," t_arde_.",6.307914229
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",68,"Una esposa fríe la nube con las hierbas.",78.62549686,1,"na","na",4.932543
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",68,"Una esposa fríe la nube con las hierbas.",78.62549686,2," esposa"," es_pos_a",10.9525932
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",68,"Una esposa fríe la nube con las hierbas.",78.62549686,3," fríe"," fr_í_e",21.8302798
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",68,"Una esposa fríe la nube con las hierbas.",78.62549686,4," la"," la",3.1409574
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",68,"Una esposa fríe la nube con las hierbas.",78.62549686,5," nube"," n_ube",16.050729
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",68,"Una esposa fríe la nube con las hierbas.",78.62549686,6," con"," con",6.515076
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",68,"Una esposa fríe la nube con las hierbas.",78.62549686,7," las"," las",5.598557
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",68,"Una esposa fríe la nube con las hierbas.",78.62549686,8," hierbas"," hier_bas_.",9.604761455
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",72,"Don Muñoz mastica el ascensor durante el almuerzo.",70.96024499,2," Muñoz"," Mu_ñ_oz",14.85591393
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",72,"Don Muñoz mastica el ascensor durante el almuerzo.",70.96024499,3," mastica"," m_astic_a",20.3828052
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",72,"Don Muñoz mastica el ascensor durante el almuerzo.",70.96024499,4," el"," el",3.4568117
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",72,"Don Muñoz mastica el ascensor durante el almuerzo.",70.96024499,5," ascensor"," asc_ensor",14.843209
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",72,"Don Muñoz mastica el ascensor durante el almuerzo.",70.96024499,6," durante"," dur_ante",9.614067037
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",72,"Don Muñoz mastica el ascensor durante el almuerzo.",70.96024499,7," el"," el",1.6347716
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",72,"Don Muñoz mastica el ascensor durante el almuerzo.",70.96024499,8," almuerzo"," al_m_uer_zo_.",6.172666552
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",76,"Don Johnson come el ensayo en su oficina.",65.85735474,2," Johnson"," Johnson",8.656911
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",76,"Don Johnson come el ensayo en su oficina.",65.85735474,3," come"," come",13.193558
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",76,"Don Johnson come el ensayo en su oficina.",65.85735474,4," el"," el",10.480953
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",76,"Don Johnson come el ensayo en su oficina.",65.85735474,5," ensayo"," ens_ay_o",11.1008186
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",76,"Don Johnson come el ensayo en su oficina.",65.85735474,6," en"," en",7.0651183
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",76,"Don Johnson come el ensayo en su oficina.",65.85735474,7," su"," su",3.2735622
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",76,"Don Johnson come el ensayo en su oficina.",65.85735474,8," oficina"," of_ic_ina_.",12.08643364
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",100,"El fontanero hornea el dolor en el horno.",63.14440655,2," fontanero"," font_an_ero",15.64975317
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",100,"El fontanero hornea el dolor en el horno.",63.14440655,3," hornea"," hor_nea",21.189526
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",100,"El fontanero hornea el dolor en el horno.",63.14440655,4," el"," el",2.6347418
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",100,"El fontanero hornea el dolor en el horno.",63.14440655,5," dolor"," d_olor",13.892553
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",100,"El fontanero hornea el dolor en el horno.",63.14440655,6," en"," en",6.4479895
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",100,"El fontanero hornea el dolor en el horno.",63.14440655,7," el"," el",1.320604
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",100,"El fontanero hornea el dolor en el horno.",63.14440655,8," horno"," horn_o_.",2.009239084
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",104,"Una jueza bebe el banco en la noche.",61.4362471,1,"na","na",4.9315853
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",104,"Una jueza bebe el banco en la noche.",61.4362471,2," jueza"," j_ue_za",13.3521649
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",104,"Una jueza bebe el banco en la noche.",61.4362471,3," bebe"," be_be",12.2184417
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",104,"Una jueza bebe el banco en la noche.",61.4362471,4," el"," el",3.6330168
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",104,"Una jueza bebe el banco en la noche.",61.4362471,5," banco"," ban_co",12.4051975
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",104,"Una jueza bebe el banco en la noche.",61.4362471,6," en"," en",6.72569
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",104,"Una jueza bebe el banco en la noche.",61.4362471,7," la"," la",1.6860036
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",104,"Una jueza bebe el banco en la noche.",61.4362471,8," noche"," n_oche_.",6.484147295
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",108,"La hija inhala el idioma en el salón.",55.19986893,2," hija"," hij_a",9.36551645
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",108,"La hija inhala el idioma en el salón.",55.19986893,3," inhala"," inh_ala",14.42994259
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",108,"La hija inhala el idioma en el salón.",55.19986893,4," el"," el",1.5438184
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",108,"La hija inhala el idioma en el salón.",55.19986893,5," idioma"," idi_oma",12.49042503
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",108,"La hija inhala el idioma en el salón.",55.19986893,6," en"," en",6.133393
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",108,"La hija inhala el idioma en el salón.",55.19986893,7," el"," el",1.3770362
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",108,"La hija inhala el idioma en el salón.",55.19986893,8," salón"," sal_ón_.",9.859737256
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",112,"La hermana pela una cuchara en la bolsa.",57.91579141,2," hermana"," her_man_a",10.55295715
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",112,"La hermana pela una cuchara en la bolsa.",57.91579141,3," pela"," p_ela",17.1205464
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",112,"La hermana pela una cuchara en la bolsa.",57.91579141,4," una"," un_a",2.89397308
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",112,"La hermana pela una cuchara en la bolsa.",57.91579141,5," cuchara"," c_uch_ara",10.28025519
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",112,"La hermana pela una cuchara en la bolsa.",57.91579141,6," en"," en",6.602045
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",112,"La hermana pela una cuchara en la bolsa.",57.91579141,7," la"," la",0.7449814
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",112,"La hermana pela una cuchara en la bolsa.",57.91579141,8," bolsa"," b_ols_a_.",9.721033196
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",116,"Un gerente canta una tortuga en el autobús.",63.17367865,2," gerente"," g_erent_e",13.29212467
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",116,"Un gerente canta una tortuga en el autobús.",63.17367865,3," canta"," c_anta",14.7953264
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",116,"Un gerente canta una tortuga en el autobús.",63.17367865,4," una"," un_a",3.33025764
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",116,"Un gerente canta una tortuga en el autobús.",63.17367865,5," tortuga"," tort_uga",11.23786085
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",116,"Un gerente canta una tortuga en el autobús.",63.17367865,6," en"," en",6.5214696
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",116,"Un gerente canta una tortuga en el autobús.",63.17367865,7," el"," el",2.068383
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",116,"Un gerente canta una tortuga en el autobús.",63.17367865,8," autobús"," aut_ob_ú_s_.",11.9282565
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",140,"Una abuela lee una rana durante la película.",59.93890662,1,"na","na",4.932862
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",140,"Una abuela lee una rana durante la película.",59.93890662,2," abuela"," ab_uel_a",10.61464242
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",140,"Una abuela lee una rana durante la película.",59.93890662,3," lee"," le_e",8.7175028
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",140,"Una abuela lee una rana durante la película.",59.93890662,4," una"," un_a",2.257615
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",140,"Una abuela lee una rana durante la película.",59.93890662,5," rana"," r_ana",11.1185284
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",140,"Una abuela lee una rana durante la película.",59.93890662,6," durante"," dur_ante",9.5623183
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",140,"Una abuela lee una rana durante la película.",59.93890662,7," la"," la",1.8321035
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",140,"Una abuela lee una rana durante la película.",59.93890662,8," película"," pel_í_cul_a_.",10.90333421
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",144,"Una jugadora se traga el papel en el gimnasio.",65.42693984,0,"na","na",4.9322767
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",144,"Una jugadora se traga el papel en el gimnasio.",65.42693984,1," jugadora"," jug_ad_ora",12.0597934
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",144,"Una jugadora se traga el papel en el gimnasio.",65.42693984,2," se"," se",3.4923387
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",144,"Una jugadora se traga el papel en el gimnasio.",65.42693984,3," traga"," tr_aga",11.7152277
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",144,"Una jugadora se traga el papel en el gimnasio.",65.42693984,4," el"," el",2.4002578
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",144,"Una jugadora se traga el papel en el gimnasio.",65.42693984,5," papel"," pap_el",7.456814112
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",144,"Una jugadora se traga el papel en el gimnasio.",65.42693984,6," en"," en",4.7975516
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",144,"Una jugadora se traga el papel en el gimnasio.",65.42693984,7," el"," el",0.20253256
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",144,"Una jugadora se traga el papel en el gimnasio.",65.42693984,8," gimnasio"," g_im_nas_io_.",18.3701473
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",148,"Una madre toma una cama durante la cita.",60.79827971,1,"na","na",4.9322767
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",148,"Una madre toma una cama durante la cita.",60.79827971,2," madre"," mad_re",8.270898632
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",148,"Una madre toma una cama durante la cita.",60.79827971,3," toma"," to_ma",7.868115275
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",148,"Una madre toma una cama durante la cita.",60.79827971,4," una"," un_a",3.0475071
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",148,"Una madre toma una cama durante la cita.",60.79827971,5," cama"," c_ama",10.5216937
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",148,"Una madre toma una cama durante la cita.",60.79827971,6," durante"," dur_ante",8.6280584
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",148,"Una madre toma una cama durante la cita.",60.79827971,7," la"," la",0.8467187
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",148,"Una madre toma una cama durante la cita.",60.79827971,8," cita"," c_ita_.",16.6830112
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",152,"Un amigo baila un pepino en la acogida.",78.53606496,2," amigo"," am_igo",11.4204525
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",152,"Un amigo baila un pepino en la acogida.",78.53606496,3," baila"," bail_a",11.6466056
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",152,"Un amigo baila un pepino en la acogida.",78.53606496,4," un"," un",4.2279468
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",152,"Un amigo baila un pepino en la acogida.",78.53606496,5," pepino"," p_ep_ino",20.809429
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",152,"Un amigo baila un pepino en la acogida.",78.53606496,6," en"," en",7.0728736
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",152,"Un amigo baila un pepino en la acogida.",78.53606496,7," la"," la",0.91757476
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",152,"Un amigo baila un pepino en la acogida.",78.53606496,8," acogida"," ac_og_ida_.",22.4411827
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",156,"Un hijo vierte el caballo sobre la camisa.",56.75930734,2," hijo"," hij_o",13.14530469
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",156,"Un hijo vierte el caballo sobre la camisa.",56.75930734,3," vierte"," v_ier_te",13.9797517
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",156,"Un hijo vierte el caballo sobre la camisa.",56.75930734,4," el"," el",2.2911606
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",156,"Un hijo vierte el caballo sobre la camisa.",56.75930734,5," caballo"," cab_allo",10.436332
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",156,"Un hijo vierte el caballo sobre la camisa.",56.75930734,6," sobre"," so_bre",6.331785559
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",156,"Un hijo vierte el caballo sobre la camisa.",56.75930734,7," la"," la",1.1045548
+"Spanish","Spanish -->Spanish","noCS","nonsense","noCS_nonsense",156,"Un hijo vierte el caballo sobre la camisa.",56.75930734,8," camisa"," cam_isa_.",9.470418
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",24,"Doña Moore lee una revista durante la cita.",60.77466369,1,"ña","ña",10.228872
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",24,"Doña Moore lee una revista durante la cita.",60.77466369,2," Moore"," Moore",13.552705
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",24,"Doña Moore lee una revista durante la cita.",60.77466369,3," lee"," le_e",11.7787404
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",24,"Doña Moore lee una revista durante la cita.",60.77466369,4," una"," un_a",2.7871551
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",24,"Doña Moore lee una revista durante la cita.",60.77466369,5," revista"," rev_ista",1.106734629
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",24,"Doña Moore lee una revista durante la cita.",60.77466369,6," durante"," dur_ante",8.5114132
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",24,"Doña Moore lee una revista durante la cita.",60.77466369,7," la"," la",2.8391294
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",24,"Doña Moore lee una revista durante la cita.",60.77466369,8," cita"," c_ita_.",9.96991395
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",28,"Don Ruiz toma una pastilla en su baño.",51.55726977,2," Ruiz"," Ru_iz",12.37450983
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",28,"Don Ruiz toma una pastilla en su baño.",51.55726977,3," toma"," to_ma",12.0093379
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",28,"Don Ruiz toma una pastilla en su baño.",51.55726977,4," una"," un_a",1.72383636
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",28,"Don Ruiz toma una pastilla en su baño.",51.55726977,5," pastilla"," past_illa",3.942716649
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",28,"Don Ruiz toma una pastilla en su baño.",51.55726977,6," en"," en",8.351581
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",28,"Don Ruiz toma una pastilla en su baño.",51.55726977,7," su"," su",3.0224166
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",28,"Don Ruiz toma una pastilla en su baño.",51.55726977,8," baño"," ba_ño_.",10.13287143
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",30,"Don Lewis baila un vals en la obra.",56.20531449,2," Lewis"," Lewis",10.138525
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",30,"Don Lewis baila un vals en la obra.",56.20531449,3," baila"," bail_a",22.030342
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",30,"Don Lewis baila un vals en la obra.",56.20531449,4," un"," un",3.8478518
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",30,"Don Lewis baila un vals en la obra.",56.20531449,5," vals"," v_als",3.276251448
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",30,"Don Lewis baila un vals en la obra.",56.20531449,6," en"," en",3.718531
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",30,"Don Lewis baila un vals en la obra.",56.20531449,7," la"," la",1.263903
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",30,"Don Lewis baila un vals en la obra.",56.20531449,8," obra"," ob_ra_.",11.92991024
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",34,"Doña Díaz se traga el agua en su piscina.",61.62180881,0,"ña","ña",10.231174
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",34,"Doña Díaz se traga el agua en su piscina.",61.62180881,1," Díaz"," D_í_az",10.69011996
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",34,"Doña Díaz se traga el agua en su piscina.",61.62180881,2," se"," se",5.6310787
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",34,"Doña Díaz se traga el agua en su piscina.",61.62180881,3," traga"," tr_aga",13.3793612
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",34,"Doña Díaz se traga el agua en su piscina.",61.62180881,4," el"," el",1.6251423
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",34,"Doña Díaz se traga el agua en su piscina.",61.62180881,5," agua"," ag_ua",4.326325987
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",34,"Doña Díaz se traga el agua en su piscina.",61.62180881,6," en"," en",6.5144205
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",34,"Doña Díaz se traga el agua en su piscina.",61.62180881,7," su"," su",2.897734
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",34,"Doña Díaz se traga el agua en su piscina.",61.62180881,8," piscina"," p_isc_ina_.",6.326452161
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",38,"Un peluquero vierte el tinte sobre el pelo.",44.39026492,2," peluquero"," pel_u_qu_ero",14.07820289
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",38,"Un peluquero vierte el tinte sobre el pelo.",44.39026492,3," vierte"," v_ier_te",11.77978974
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",38,"Un peluquero vierte el tinte sobre el pelo.",44.39026492,4," el"," el",2.9329631
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",38,"Un peluquero vierte el tinte sobre el pelo.",44.39026492,5," tinte"," tint_e",5.695313746
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",38,"Un peluquero vierte el tinte sobre el pelo.",44.39026492,6," sobre"," so_bre",2.361587023
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",38,"Un peluquero vierte el tinte sobre el pelo.",44.39026492,7," el"," el",0.24232921
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",38,"Un peluquero vierte el tinte sobre el pelo.",44.39026492,8," pelo"," pel_o_.",7.300079218
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",63,"Un hombre escribe el libro en las montañas.",47.05207627,2," hombre"," h_omb_re",8.103710711
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",63,"Un hombre escribe el libro en las montañas.",47.05207627,3," escribe"," esc_ribe",9.4187877
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",63,"Un hombre escribe el libro en las montañas.",47.05207627,4," el"," el",3.9599812
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",63,"Un hombre escribe el libro en las montañas.",47.05207627,5," libro"," lib_ro",2.961553313
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",63,"Un hombre escribe el libro en las montañas.",47.05207627,6," en"," en",7.3279195
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",63,"Un hombre escribe el libro en las montañas.",47.05207627,7," las"," las",7.804316
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",63,"Un hombre escribe el libro en las montañas.",47.05207627,8," montañas"," mont_a_ñ_as_.",7.475807816
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",67,"El camarero derrama una sopa sobre el cliente.",35.74935088,2," camarero"," cam_are_ro",9.826529458
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",67,"El camarero derrama una sopa sobre el cliente.",35.74935088,3," derrama"," der_rama",11.0159374
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",67,"El camarero derrama una sopa sobre el cliente.",35.74935088,4," una"," un_a",1.9561844
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",67,"El camarero derrama una sopa sobre el cliente.",35.74935088,5," sopa"," s_opa",4.16082401
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",67,"El camarero derrama una sopa sobre el cliente.",35.74935088,6," sobre"," so_bre",4.031946007
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",67,"El camarero derrama una sopa sobre el cliente.",35.74935088,7," el"," el",1.6361387
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",67,"El camarero derrama una sopa sobre el cliente.",35.74935088,8," cliente"," client_e_.",3.121790907
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",71,"El chico devora la cena en la mesa.",36.73481835,2," chico"," ch_ico",9.7935337
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",71,"El chico devora la cena en la mesa.",36.73481835,3," devora"," dev_ora",11.5376826
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",71,"El chico devora la cena en la mesa.",36.73481835,4," la"," la",1.4975915
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",71,"El chico devora la cena en la mesa.",36.73481835,5," cena"," c_ena",4.0347748
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",71,"El chico devora la cena en la mesa.",36.73481835,6," en"," en",5.8111186
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",71,"El chico devora la cena en la mesa.",36.73481835,7," la"," la",3.2851212
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",71,"El chico devora la cena en la mesa.",36.73481835,8," mesa"," mes_a_.",0.774995951
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",75,"La jefa sorbe el jugo en la junta.",51.08681652,2," jefa"," j_ef_a",10.70208737
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",75,"La jefa sorbe el jugo en la junta.",51.08681652,3," sorbe"," sor_be",17.9149913
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",75,"La jefa sorbe el jugo en la junta.",51.08681652,4," el"," el",1.8343832
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",75,"La jefa sorbe el jugo en la junta.",51.08681652,5," jugo"," jug_o",4.726193632
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",75,"La jefa sorbe el jugo en la junta.",51.08681652,6," en"," en",7.2834377
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",75,"La jefa sorbe el jugo en la junta.",51.08681652,7," la"," la",1.1668724
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",75,"La jefa sorbe el jugo en la junta.",51.08681652,8," junta"," j_unta_.",7.45885092
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",79,"El gato consume un pez en el estanque.",47.66064001,2," gato"," g_ato",9.2024852
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",79,"El gato consume un pez en el estanque.",47.66064001,3," consume"," consume",11.725542
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",79,"El gato consume un pez en el estanque.",47.66064001,4," un"," un",3.4677038
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",79,"El gato consume un pez en el estanque.",47.66064001,5," pez"," pe_z",11.5308128
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",79,"El gato consume un pez en el estanque.",47.66064001,6," en"," en",5.255965
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",79,"El gato consume un pez en el estanque.",47.66064001,7," el"," el",2.6163077
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",79,"El gato consume un pez en el estanque.",47.66064001,8," estanque"," est_an_que_.",3.861823506
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",102,"El maestro come el aguacate en la aula.",52.76391446,2," maestro"," ma_estro",9.86901633
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",102,"El maestro come el aguacate en la aula.",52.76391446,3," come"," come",7.8713756
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",102,"El maestro come el aguacate en la aula.",52.76391446,4," el"," el",6.0098643
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",102,"El maestro come el aguacate en la aula.",52.76391446,5," aguacate"," ag_u_ac_ate",7.962464874
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",102,"El maestro come el aguacate en la aula.",52.76391446,6," en"," en",8.235914
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",102,"El maestro come el aguacate en la aula.",52.76391446,7," la"," la",0.75210536
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",102,"El maestro come el aguacate en la aula.",52.76391446,8," aula"," a_ula_.",12.063174
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",106,"Una granjera fríe la carne en la sartén.",48.09110064,1,"na","na",4.9322767
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",106,"Una granjera fríe la carne en la sartén.",48.09110064,2," granjera"," gran_j_era",14.65829572
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",106,"Una granjera fríe la carne en la sartén.",48.09110064,3," fríe"," fr_í_e",13.5522905
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",106,"Una granjera fríe la carne en la sartén.",48.09110064,4," la"," la",5.994457
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",106,"Una granjera fríe la carne en la sartén.",48.09110064,5," carne"," car_ne",1.714638475
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",106,"Una granjera fríe la carne en la sartén.",48.09110064,6," en"," en",2.8780646
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",106,"Una granjera fríe la carne en la sartén.",48.09110064,7," la"," la",2.8435395
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",106,"Una granjera fríe la carne en la sartén.",48.09110064,8," sartén"," s_art_én_.",1.517538168
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",110,"Un piloto vuela el avión por el cielo.",32.23560959,2," piloto"," pil_oto",12.5168093
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",110,"Un piloto vuela el avión por el cielo.",32.23560959,3," vuela"," v_uel_a",5.620163874
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",110,"Un piloto vuela el avión por el cielo.",32.23560959,4," el"," el",5.1706634
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",110,"Un piloto vuela el avión por el cielo.",32.23560959,5," avión"," av_i_ón",0.206398447
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",110,"Un piloto vuela el avión por el cielo.",32.23560959,6," por"," por",5.703741
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",110,"Un piloto vuela el avión por el cielo.",32.23560959,7," el"," el",2.0990586
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",110,"Un piloto vuela el avión por el cielo.",32.23560959,8," cielo"," c_iel_o_.",0.918774987
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",114,"La estudiante mastica el chicle durante el descanso.",46.11259794,2," estudiante"," est_ud_iant_e",12.53091666
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",114,"La estudiante mastica el chicle durante el descanso.",46.11259794,3," mastica"," m_astic_a",14.26725277
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",114,"La estudiante mastica el chicle durante el descanso.",46.11259794,4," el"," el",2.592681
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",114,"La estudiante mastica el chicle durante el descanso.",46.11259794,5," chicle"," ch_icle",0.342315478
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",114,"La estudiante mastica el chicle durante el descanso.",46.11259794,6," durante"," dur_ante",6.756201906
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",114,"La estudiante mastica el chicle durante el descanso.",46.11259794,7," el"," el",1.5564164
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",114,"La estudiante mastica el chicle durante el descanso.",46.11259794,8," descanso"," desc_ans_o_.",8.066813732
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",118,"El padre cocina un pollo en la parrilla.",44.39858524,2," padre"," pad_re",9.775580812
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",118,"El padre cocina un pollo en la parrilla.",44.39858524,3," cocina"," coc_ina",11.02220166
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",118,"El padre cocina un pollo en la parrilla.",44.39858524,4," un"," un",6.118121
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",118,"El padre cocina un pollo en la parrilla.",44.39858524,5," pollo"," poll_o",4.023179081
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",118,"El padre cocina un pollo en la parrilla.",44.39858524,6," en"," en",6.7530546
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",118,"El padre cocina un pollo en la parrilla.",44.39858524,7," la"," la",1.0298301
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",118,"El padre cocina un pollo en la parrilla.",44.39858524,8," parrilla"," par_r_illa_.",5.676617987
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",142,"El niñero hornea el pavo para la cena.",53.29774831,2," niñero"," ni_ñ_ero",18.7767203
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",142,"El niñero hornea el pavo para la cena.",53.29774831,3," hornea"," hor_nea",17.2511855
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",142,"El niñero hornea el pavo para la cena.",53.29774831,4," el"," el",2.8593826
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",142,"El niñero hornea el pavo para la cena.",53.29774831,5," pavo"," pav_o",5.74945213
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",142,"El niñero hornea el pavo para la cena.",53.29774831,6," para"," para",5.804652
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",142,"El niñero hornea el pavo para la cena.",53.29774831,7," la"," la",1.0503589
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",142,"El niñero hornea el pavo para la cena.",53.29774831,8," cena"," c_ena_.",1.80599688
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",146,"Una clienta bebe el vino en el viñedo.",55.5955899,1,"na","na",4.932862
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",146,"Una clienta bebe el vino en el viñedo.",55.5955899,2," clienta"," client_a",11.67534223
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",146,"Una clienta bebe el vino en el viñedo.",55.5955899,3," bebe"," be_be",10.9729808
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",146,"Una clienta bebe el vino en el viñedo.",55.5955899,4," el"," el",4.440003
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",146,"Una clienta bebe el vino en el viñedo.",55.5955899,5," vino"," v_ino",2.210310764
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",146,"Una clienta bebe el vino en el viñedo.",55.5955899,6," en"," en",4.702526
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",146,"Una clienta bebe el vino en el viñedo.",55.5955899,7," el"," el",2.571655
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",146,"Una clienta bebe el vino en el viñedo.",55.5955899,8," viñedo"," vi_ñ_edo_.",14.0899101
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",150,"Un conductor canta una canción en el coche.",38.2334047,2," conductor"," conductor",14.164346
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",150,"Un conductor canta una canción en el coche.",38.2334047,3," canta"," c_anta",11.3641326
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",150,"Un conductor canta una canción en el coche.",38.2334047,4," una"," un_a",1.908076335
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",150,"Un conductor canta una canción en el coche.",38.2334047,5," canción"," can_ci_ón",0.144598053
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",150,"Un conductor canta una canción en el coche.",38.2334047,6," en"," en",3.2923222
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",150,"Un conductor canta una canción en el coche.",38.2334047,7," el"," el",1.4878997
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",150,"Un conductor canta una canción en el coche.",38.2334047,8," coche"," coc_he_.",5.8720298
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",154,"La viajera inhala el humo en el bosque.",49.21186643,2," viajera"," via_j_era",15.5403513
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",154,"La viajera inhala el humo en el bosque.",49.21186643,3," inhala"," inh_ala",15.2308433
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",154,"La viajera inhala el humo en el bosque.",49.21186643,4," el"," el",0.9020544
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",154,"La viajera inhala el humo en el bosque.",49.21186643,5," humo"," hum_o",5.966805908
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",154,"La viajera inhala el humo en el bosque.",49.21186643,6," en"," en",5.502907
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",154,"La viajera inhala el humo en el bosque.",49.21186643,7," el"," el",1.2400688
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",154,"La viajera inhala el humo en el bosque.",49.21186643,8," bosque"," bos_que_.",4.828835717
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",158,"La cocinera pela una zanahoria en la cocina.",40.70373394,2," cocinera"," coc_iner_a",11.14228915
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",158,"La cocinera pela una zanahoria en la cocina.",40.70373394,3," pela"," p_ela",14.6356725
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",158,"La cocinera pela una zanahoria en la cocina.",40.70373394,4," una"," un_a",2.82831593
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",158,"La cocinera pela una zanahoria en la cocina.",40.70373394,5," zanahoria"," z_an_ah_oria",2.878233517
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",158,"La cocinera pela una zanahoria en la cocina.",40.70373394,6," en"," en",6.5068536
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",158,"La cocinera pela una zanahoria en la cocina.",40.70373394,7," la"," la",2.549524
+"Spanish","Spanish -->Spanish","noCS","sense","noCS_sense",158,"La cocinera pela una zanahoria en la cocina.",40.70373394,8," cocina"," coc_ina_.",0.162845248
